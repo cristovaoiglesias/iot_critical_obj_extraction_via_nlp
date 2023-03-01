@@ -1,0 +1,77 @@
+From time to time, people ask for a version of the transaction API exported to user space.
+FitBark will also offer an open API, and encourages developers to get involved with the platform.
+Also, if you are a developer, you can unburden yourself the API and develop your own applications to sell them or to leave them in a free way.
+Apercite puts forward a buyable API which allows you using an HTTP request to know the creation date of an image.
+Dogfooding the API is the only way to really know what's useful.
+In order to support transparent failover, some customer applications or versions of the API may require modifications or upgrades.
+The vCloud API enables the upload, download, instantiation, deployment and operation of vApps, networks and Virtual Datacenters.
+When Use Windows Crypto API is set to Yes, Reflection uses the Windows cryptographic library.
+Nisus Writer Express does fully support Apple's Accessibility API, making it a perfect partner for VisioVoice.
+The HIToolbox human interface API has been patched to prevent the VoiceOver accessibility app from reading out the contents of secure text-entry fields such as passwords.
+The changes in the Player APIs have resulted in the deprecation of a group of methods in the Player API Content Module.
+Enabling the power user mode via API RPC does not create a default webspace.
+We provide a tryout environment allowing the reseller to test the features, functions and integrate the API into its system.
+This variable, which can be consulted by DDE or API, can be used to trig an alarm.
+Those example programs will be usefull for those who want to integrate the RCI API in their own aplication.
+To use tools like API, enveloper, developers can easily make encryption which is difficult to crack.
+The Google API is destined to change the way that developers retrieve data and it opens a whole new level of data mining that has never been available in the past.
+Some light crude oil streams became medium crude oil streams because their API gravities fell below the 30 degree API threshold.
+External data such as API or database imported data can be included as variables in the reports.
+In order to implement the handler features, an addition has been made to the Apache API that you may wish to make use of.
+The batching options available to you differ based on which underlying API your code is using.
+We may change these management functions or API Programs or stop offering them, at any time, with or without notice, on Our sole discretion.
+The allegation that changes of regimes following the Arab Spring has rendered the API meaningless is untrue.
+Developers can use the API to script their signing activities and integrate them into the overall application development process.
+The clientserver approach and the rich Web Services API allow us the flexibility to build any kind of application using any type of voiceprint in any language.
+Specifically, oil biodegradation typically raises oil viscosity that reduces oil producibility and reduces the API gravity, which reduces the value of the produced oil.
+Without an API, programmers would first have to suss out how the gears and cogs inside the target platform work, and then construct software to mesh with those.
+Calling the Application Link Enabling API in the application. This specifically means Determining the Receiver of a BAPI and calling the BAPI synchronously or asynchronously.
+Using the Button Manager API, you can programmatically create the checkout button that initiates the Hosted Solution checkout flow on your website.
+The engineering standards used by Jacobs Consultancy include those from the major standard organizations such as CSA, API, ANSI, ASME and several others.
+It provides clear mechanisms for extension of the Data Model, so that new object types can be linked into the API without causing revision or recompilation of the kernel software.
+Just like his competitor Home API of Microsoft, Jini offers the absolute advantage not to oblige any protocol or type of network to let communicate electrical equipments between each other.
+Programmability: The PicoScope 4000 series API lets you write your own programs, in your chosen programming language, to control all the features of the scope.
+Our API mashes the data and functionality of all of our services into one application interface, ready for you to easily integrate into any of your services or systems.
+The Thin Reclamation API enables InServ arrays to use granular, file system-level information to autonomically reclaim unused space within thin InServ volumes so that they stay thin over time.
+In the context of marginalised people as well as the illiterate and semiliterate groups, considerable hand-holding may be required before they can confidently use API on their own.
+The cell suspensions from each strain were used to inoculate the cupules of the API ZYM strips. 
+An API will ensure the possibility to generate embedded hostless solutions.
+As part of the safety equipment and oxygen line, API will offer oxygen generators, emergency escape hoods, oxygen masks and breathing systems.
+This is just another way that DynDNS' de-facto DNS Update API is being used to update Dynamic DNS hosts.
+OpenGL Performer is a powerful API for creating real-time visual simulation and other interactive 3D graphics applications.
+OpenGL is a cross-platform graphics API, and the only major API with support for virtually all operating systems.
+With the new release, Conjoin now provides an API through which to integrate Field.
+Simply select text in these environments and use a command key combination to bring THINK Reference forward and search for that API or keyword.
+In addition, we meet the new viscosity control requirements for highly sooted engine oils in the new API CI-4 Plus category.
+Brownbook makes all its data available to anyone via an OpenSearch API and all the data is fully marked up with Microformat tags.
+New Privacy Protected and Secure API Debuts at HIMSS '15 Conference with Mavens Consulting, Life Sciences Technology Partner, via Salesforce.
+Cambrex, based in East Rutherford, NJ, produces a high-grade benzoyl peroxide API that is made under cGMP and which has a Drug Master File.
+The IDE is equipped with IntelliSense to enable autocompletion for all Crossrider API methods, making development even faster and easier.
+Akana said that Aeromexico has selected Akana's API management platform to enable its transformation into a digital enterprise.
+The port continued to grow and in 1996, a new private company, API Acapulco, was created to manage operations.
+Additional items found on the CD include calling nonjava libraries from Java, and using the security API and developing JavaBeans components.
+Muar experienced the highest API level of 746 on 23 June 2013 at around 7 am.
+The 2013 Southeast Asian Haze saw API levels reach a hazardous level in some countries.
+Execute an API or DLL call of the wrong bitness from within any of these programs and the result is an unrecoverable run-time error.
+You may not use these management functions or API Programs, or any data obtained through these management functions or API programs, for purposes other than managing Your account and contents.
+If you are submitting messages using the API you may not be aware we offer the ability to submit multiple messages in one call, rather than making lots of single submissions from your side.
+We already have a directive on API data, and they can indeed be used for the identification of persons and they can be used to run persons against a watch list.
+Certification: API certifies manufacturers and suppliers of equipment used for production, drilling and refining and verifies that manufacturers are in compliance with industry standards.
+Oil samples recovered from the Teak-1 well indicate oil of approximately 40 degrees API gravity in Campanian reservoirs and 32 degrees API gravity in Turonian reservoirs.
+Business Edition runs on an open Web Services API so developers can more easily build integration solutions and custom applications to connect candidate and requisition data.
+We have found Esendex's services to be quick and easy to implement and the SMS API is such a comprehensive tool for integrating SMS with business applications.
+Merck offers a unique combination of raw materials for formulation, preparative chromatographic resins, both for biopharmaceutical and chemical API recovery on a large scale.
+These include kinins like PKC and tyrosine kinase, TNF, NF-kappa B, cyclic D, protein API, STAT family agents, etc.
+The first iteration of the public API gives developers access to public keeks, search functionality, user profiles, Klusters and more.
+Although the lighter conventional crudes are often waterflooded to enhance recovery, this method is essentially ineffective for heavy crudes between 20° and 10° API gravity, and thermal recovery becomes necessary.
+The new OpenSocial API extension, built by the Komodo dev team, adds autocompletion for OpenSocial JavaScript and Google Gadget XML APIs to Komodo IDE and Komodo Edit.
+Since SGI introduced the OpenGL API in 1992, it has grown into the industry's leading cross-platform 2D and 3D graphics API and its presence continues to grow every day.
+Opera's API is a feature-rich, high performance interface that allows developers to integrate Opera with their customised user interfaces and graphical toolkits.
+The PDT SDK features an open API that is easily integrated by Original Equipment Manufactures and Systems Integrators within their leading applications.
+Its test facility has a dedicated area for lineshaft and submersible pumps, along with a test loop for the API process pumps and a crane capacity of 10 tonnes.
+Coinkite has announced today the release of its multi-signature API and Co-sign Pages, giving users the first Bitcoin platform of its kind to support M-of-15 signatures.
+This gives the card issuer the control of a FAT file system with Access Controls Rule, an on-card Win32 API, language-neutral virtual machine and popular cryptos.
+A complete client-side SFTP API for Java and C to enable seamless integration of secure file transfers for applications and third-party file transfer management systems.
+The first is from the OpenAccess Coalition Scripting Languages Working Group, which has created interfaces between the OpenAccess API and popular open scripting languages.
+A few moments later, a fireball produced by the impact of the API bullet appeared on the AMTRAC hull just above the top-left corner of the small access door.
+It is very helpful to know if a drug API has known polymorphs that could result in degradation of products or affect product potency and stability.

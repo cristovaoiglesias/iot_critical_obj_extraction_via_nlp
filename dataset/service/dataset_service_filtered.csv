@@ -1,0 +1,1434 @@
+No|entity|annotation|index1|index2|sentence
+0|SERVICE|turn|17|21|my smart home to turn on certain lights at dusk
+1|SERVICE|sync|17|21|my smart home to sync with my biorhythm app and turn on some music that might suit my mood when I arrive home from work
+2|SERVICE|ring|20|24|my smart home to to ring when my favorite shows are about to start
+3|SERVICE|regulate|17|25|my smart home to regulate ideal temperature according to my personal preferences and the outside temperature
+4|SERVICE|send|17|21|my smart home to send me a text when my kid gets home from school
+5|SERVICE|send|17|21|my smart home to send me a push notification when my kids arrive home from school
+7|SERVICE|buzz|17|21|my smart home to buzz when the shower is warm to my desired temperature
+8|SERVICE|sync|17|21|my smart home to sync with my alarm in the morning to turn on the lights and shower when it's time for me to wake up
+9|SERVICE|shut|17|21|my smart home to shut off the sink after two minutes when brushing my teeth
+10|SERVICE|lock|17|21|my smart home to lock the doors at night
+11|SERVICE|adjust|17|23|my smart home to adjust the temperature based on the weather outside
+12|SERVICE|open|17|21|my smart home to open my garage door when it senses my vehicle arriving outside of it
+13|SERVICE|shut|17|21|my smart home to shut the lights off for me in rooms with nobody in them
+14|SERVICE|monitor|17|24|my smart home to monitor my energy use and make recommendations to reduce energy consumption
+15|SERVICE|buzz|17|21|my smart home to buzz my room if there is a disturbance in my baby's room
+16|SERVICE|turn on|27|34|an outdoor safety light to turn on at night when it senses something other than a family member or pet outside
+17|SERVICE|notify|17|23|my smart home to notify me when someone other than a family member or trusted other is near my home
+18|SERVICE|calculate|17|26|my smart home to calculate what heat sources would be the best for my home (ductless heat pump, regular furnace, space heaters, or any combination therof)
+19|SERVICE|sync|17|21|my smart home to sync all Christmas-related lights, indoor and outdoor, and turn them on and off at the appropriate time
+20|SERVICE|notify|17|23|my smart home to notify me when a box has been delivered at my home, preferably with the packaging information from the label
+21|SERVICE|analyze and recommend|17|38|my smart home to analyze and recommend the best sources to cool my home (air conditioning, window fan, ceiling fan, ductless heat pump, etc.)
+23|SERVICE|monitor|17|24|my smart home to monitor anyone near my home's doors, windows, etc. and notify me if there is someone there who does not live in the home
+26|SERVICE|greet|17|22|my smart home to greet and take pictures of anyone who enters my home who is not a registered occupant
+27|SERVICE|inform|17|23|my smart home to inform me of any weather alerts for my area
+28|SERVICE|provide|17|24|my smart home to provide news and updates on my hobbies
+29|SERVICE|monitor|17|24|my smart home to monitor my body and inform me daily or weekly when a potential health concern is noticed
+31|SERVICE|control|3|10|to control my stovetops with my smartphone or tablet 
+32|SERVICE|listen|15|21|the ability to listen to my music in every room in the house simultaneously
+33|SERVICE|silence|17|24|my smartphone to silence notifications (sounds, doorbells, TVs, etc.) unless it is an emergency
+34|SERVICE|switches off|16|28|the electricity switches off when no one is inside the room
+35|SERVICE|create|17|23|my smartphone to create an environment (lighting, sound, temperature) 
+36|SERVICE|clean|17|22|my smart home to clean the floors regularly
+37|SERVICE|adjust|20|26|the radio system to adjust volume based on the distance of the people
+38|SERVICE|feed|17|21|my smart home to feed and water the pets on a schedule
+39|SERVICE|clean|11|16|a robot to clean windows
+40|SERVICE|switch|26|32|the central a/c system to switch between cooling and heating based on temperature
+41|SERVICE|run|22|25|the vacuum cleaner to run automated on scheduled timings
+43|SERVICE|control|10|17|an app to control the shades/blinds on my windows 
+44|SERVICE|organizes|14|23|a device that organizes the kitchen items and gives an alarm or places the order when it falls below the limit
+45|SERVICE|Adjust|0|6|Adjust temperature in room, based on my location (if near, turn on heater/cooler, if far from home turn of)
+46|SERVICE|change|20|26|my room lighting to change lighting effect based on the time of day
+47|SERVICE|sends|20|25|a smart device that sends out photos of person who enter through the main gate
+48|SERVICE|alert|17|22|My smart home to alert me via a specific sound and a text message via mobile phone that someone has approached my car positioned in my driveway.
+49|SERVICE|unlock|3|9|to unlock the door from a remote location that has an alert with video feed
+51|SERVICE|turn|21|25|my smart home  to to turn on the tv when I get home
+53|SERVICE|clean|13|18|House vacuum clean itself when I'm not home (like integrated roomba vacuum cleaner)
+54|SERVICE|lower|17|22|my smart home to lower the thermostat at night
+55|SERVICE|save|0|4|save my home energy 
+56|SERVICE|switch|15|21|my smart TV to switch to the sports channel when the sports game begins
+57|SERVICE|heats|19|24|Home automatically heats precooked meal based on approximate of arrival (based on GPS location)
+58|SERVICE|screen|18|24|my smart house to screen all forms of communication including visitors
+59|SERVICE|secure|42|48|my smart home to actively and proactively secure itself
+60|SERVICE|alert|17|22|my smart home to alert me when I am about to run out of medication
+61|SERVICE|turn|17|21|my smart home to turn on the sprinkers when there is a fire
+63|SERVICE|convert|18|25|my smart house to convert a room (move furniture, have mirrors, and have a place for media)
+64|SERVICE|monitor|17|24|my smart home to monitor energy use and excess
+65|SERVICE|alert|17|22|my smart home to alert me when there is more than one person in the house
+66|SERVICE|turn off/on|15|26|the ability to turn off/on lights in different rooms with voice commands.
+67|SERVICE|alert|17|22|my smart home to alert me when my children are not home by their usual time
+68|SERVICE|activate|17|25|my smart home to activate safety features such as window coverings
+69|SERVICE|remember|17|25|my smart home to remember entertainment preferences, such as music or videos
+70|SERVICE|check|19|24|home automatically check air quality (for elegant, dust, soot etc) and try to improve quality level by automatic intake of fresh air
+72|SERVICE|capture|17|24|My smart home to capture a picture and alert me via a specific sound and a text message via mobile phone when a vehicle enters my driveway
+74|SERVICE|switch|31|37|my smart home to automatically switch off/on electric gadgets like bulbs, fans, ACs when a person move out or move in the particular affected region of particular gadget.
+76|SERVICE|start|22|27|my smart home to auto start video recording and sending the same to smarthome when a theft approaches inside home
+77|SERVICE|sense and inform|17|33|my smart home to sense and inform small or tiny movable living things like mosquitoes, termites.
+78|SERVICE|protect|3|10|to protect my objects 
+79|SERVICE|alert|17|22|my smart home to alert me via a specific sound and a text message via mobile phone when a personal parcel package is delivered to my door
+80|SERVICE|alarm|17|22|my smart home to alarm me if danger
+82|SERVICE|contact|18|25|my smart house to contact the police
+83|SERVICE|switch on|0|9|switch on any lights automatically when dark falls and switch off in the morning automatically.
+84|SERVICE|shut off|17|25|my smart home to shut off the air when the room is at the right temperature 
+87|SERVICE|lock|17|21|my smart home to lock all doors at once 
+88|SERVICE|open|31|35|my smart home to automatically open windows with the help of remote control
+89|SERVICE|capture|17|24|my smart home to capture a picture, open a communication channel, and alert me via a specific sound and a text message via mobile phone when a person rings my doorbell or knocks on my front or rear door
+91|SERVICE|switch off|16|26|my smarthome to switch off All the bulbs after 10 pm automaticaly
+92|SERVICE|inform|17|23|my smart home to inform me quickly when my solar water heater does heat water
+93|SERVICE|secure|3|9|to secure my house and my family when there is a gas leakage.
+94|SERVICE|switch off|3|13|to switch off TV, Radio and other Leisure gadgets after 10 pm 
+95|SERVICE|control|0|7|control the temperature in my room.
+96|SERVICE|start|31|36|my smart home to automatically start radio in specific timings 
+97|SERVICE|open and close|31|45|my smart home to automatically open and close my garage door when I approach and leave my home in my car
+99|SERVICE|alert|22|27|my smarthome clock to alert my child to eat food at regular and correct time
+102|SERVICE|turn off|24|32|lights to automatically turn off when no motion is detected in a room
+103|SERVICE|learns|18|24|a thermostat that learns my schedule and self-adjusts
+104|SERVICE|preheats|13|21|an oven that preheats at set intervals
+105|SERVICE|maintain|18|26|A/C automatically maintain the perfect temperature by calculating  past usage patterns.
+106|SERVICE|surveillance|26|38|remote wireless access to surveillance cameras
+107|SERVICE|set|3|6|to set an alarm on all the water pipes 
+110|SERVICE|notify|17|23|my smart home to notify me via text message when my internet service bandwidth declines below a pre-specified speed, and also keeps track of bandwidth outages and speed reductions
+111|SERVICE|show|11|15|Thermostat show temperature from across the room and give recommend to heat or cool the room. 
+112|SERVICE|lock up|12|19|my doors to lock up automatically after a mentioned time
+113|SERVICE|notify|17|23|my smart home to notify me via text message when regular tests of my various installed smart home technologies indicate a specific technology malfunction or failure
+115|SERVICE|open|3|7|to open front gate of my home automatically when my vehicle approach to gate and close after vehicle pass the gate
+116|SERVICE|clean|16|21|smart device to clean your windows automatically
+117|SERVICE|close|31|36|my smart home to automatically close and open pre-specified window shades, and to turn on-off specific lights in and around my home automatically each night and each day
+118|SERVICE|manage|17|23|my smart home to manage electicity of home. when some activity or movement is going on the lights get auto on for some specific time but if there is no activity going on like room is vacant or people are sleeping then it can auto sensor and switch off the lights and also maintain the brightness of lights.
+119|SERVICE|clean|19|24|smart snowlance to clean snow on my home roof automatically
+120|SERVICE|monitor|17|24|my smart home to monitor my body temprature and manage the home temprature according to that.
+121|SERVICE|blink|11|16|my home to blink a red bulb whenever someone is starring for more then one minute to the home
+122|SERVICE|ring|17|21|my smart home to ring bell in all over the home 
+123|SERVICE|collect|17|24|my smart home to collect and manage the various power requirements of my smart appliances, heating and cooling technologies, and my security and access systems, and I wish to be alerted via text message via mobile phone when power-related problems, spikes or failures occur
+125|SERVICE|change|17|23|my smart home to change the fragrence of home in every few hours
+126|SERVICE|maintain|6|14|it to maintain the temperature and ask person at home or other place if the temperature should be higher or lower.
+128|SERVICE|watch|6|11|it to watch people who get close to the house and alert the homeowner if they are suspicious.
+129|SERVICE|check|6|11|it to check each room and turn off lights if a person is not in the room
+130|SERVICE|check|6|11|it to check the contents of the refirgerator and inform user if the milk is too old or when to get new food.
+131|SERVICE|beep|16|20|my smarthome to beep when there is a rodent inside my home
+132|SERVICE|turn on|30|37|my smarthome to automatically turn on the television whenever my favorite show is telecast. 
+133|SERVICE|turn on|6|13|it to turn on the TV to the news channel of the user's choice when important news is happening
+134|SERVICE|alert|16|21|my smarthome to alert me when there is water flooding in my home during the rainy season
+135|SERVICE|prepare|6|13|it to prepare the bath when a user wants it at a perfect temperature and with bubbles if needed.
+136|SERVICE|buzz|16|20|my smarthome to buzz me whenever my dog poops inside my home
+137|SERVICE|prepeare|6|14|it to prepeare the coffee in the morning before user wakes up
+138|SERVICE|alert|16|21|my smarthome to alert me whenever someone sets up a spycam inside my home. 
+139|SERVICE|remind|6|12|it to remind the person to go to bed at a specific time for school,work or special occasion
+140|SERVICE|turn off|30|38|my smarthome to automatically turn off the lights whenever I leave my home
+141|SERVICE|alert|16|21|my smarthome to alert me whenever there is a gas leak inside my home
+142|SERVICE|wash|6|10|it to wash the dishes at the best time available
+143|SERVICE|alert|16|21|my smarthome to alert me whenever the amount of milk in my fridge is too low
+144|SERVICE|turn|6|10|it to turn on the outside lights at night and turn them off in the morning also dim lights when light isn't needed so bright
+145|SERVICE|give|16|20|my smarthome to give an update on the weather when I am about to leave my home
+146|SERVICE|monitor|6|13|it to monitor people with health problems so if something is wrong the medical emergency agents gets called
+147|SERVICE|turn on|6|13|it to turn on the oven at a specific time agreed upon by a person
+148|SERVICE|stay|19|23|dangerous doors to stay locked
+149|SERVICE|stay|9|13|doors to stay locked
+150|SERVICE|record|11|17|cameras to record
+151|SERVICE|save|9|13|items to save energy
+152|SERVICE|dim|10|13|lights to dim when i'm gone
+156|SERVICE|warn|13|17|something to warn me if there is an electrical problem in the wall
+157|SERVICE|alerts|15|21|something that alerts me when my dog gets too close to dangerous foods or things
+158|SERVICE|alert|17|22|my smart home to alert authorities when it detects the presence of carbon monoxide or fire.
+159|SERVICE|change|18|24|smart lights that change throughout the time of day
+160|SERVICE|turn|18|22|My smart house to turn the lights off after there is no movment in a room for 20 min
+161|SERVICE|warn|17|21|my television to warn me when a rated R movie is coming on
+162|SERVICE|warn|13|17|something to warn me when the stove isn't working right
+163|SERVICE|recognize|17|26|my smart home to recognize a durress phrase,
+164|SERVICE|kick|11|15|a light to kick on when someone approaches my door
+165|SERVICE|restrict|17|25|my smart home to restrict tv channels when my child turns on the tv (perhaps via a profile menu or something)
+166|SERVICE|alert|26|31|smoke detectors that will alert me if I am away from home
+167|SERVICE|alerts|15|21|something that alerts me when my dog is in the trash
+168|SERVICE|determine|27|36|the house to automatically determine the right temperature to set the thermostat
+169|SERVICE|turn off|17|25|my smart home to turn off internet access for my child's playstation or computer when a certain time period (to be specified by adult) has been reached
+170|SERVICE|lock|26|30|My house to automatically lock all windows and doors once I close the front door and step on the front steps outsidde
+171|SERVICE|shut|27|31|the house to automatically shut off lights in rooms without occupants
+172|SERVICE|turn off|10|18|lights to turn off if no one has entered a room during a given period
+173|SERVICE|turn off|17|25|my smart home to turn off lights in rooms when no motion is detected after 15 minutes
+174|SERVICE|disable|44|51|a smoke alarm that I can easily temporarily disable for an hour
+179|SERVICE|manage|17|23|my smart home to manage temperature settings when people are home and away
+181|SERVICE|alert|17|22|my smart home to alert me when my cat enters or leaves the house
+183|SERVICE|sync|23|27|my music and videos to sync across devices all over the house
+184|SERVICE|lock|12|16|my doors to lock automaticaly
+185|SERVICE|close|18|23|curtains that can close automatically with a clap
+186|SERVICE|notify|17|23|Sensors that can notify my smartphone if there are movments in the house
+187|SERVICE|adjust|29|35|automatic shades/blinds that adjust throughout the day
+188|SERVICE|notify|25|31|Smoke detectors that can notify my phone
+189|SERVICE|leave|27|32|a subtle reminder should I leave a door unlocked or open
+190|SERVICE|notify|11|17|my home to notify me when I need to take the dog out for walks
+191|SERVICE|turn on and off|12|27|lights that turn on and off automatically
+192|SERVICE|turn on|17|24|my smart home to turn on lights in the living room, foyer, and front porch when someone approaches the door
+193|SERVICE|activated|22|31|a search engine voice activated with a display on a wall
+194|SERVICE|wake up|25|32|my home to automatically wake up children at a predetermined time for school
+196|SERVICE|turn on|27|34|lights that in front rooms turn on automatically
+197|SERVICE|activate|28|36|sprinklers to automatically activate and water the lawn at the appropriate times
+199|SERVICE|regulate|17|25|my smart home to regulate temperature loss  or brigthness through windows (like a photo cell that darkens the window when the sun shines right on it)
+200|SERVICE|notify|11|17|my home to notify me of maintenance concerns, such as faulty meters or leaking pipes
+201|SERVICE|turn on|12|19|speakers to turn on where im walking towards
+203|SERVICE|shutter|17|24|my smart home to shutter the windows when winds get too brisk or high
+204|SERVICE|turn off|17|25|my smart home to turn off the heat if anything is blocking the heater
+206|SERVICE|notify|30|36|my refrigerator and pantry to notify me when certain ingredients are running low
+207|SERVICE|detect|17|23|my smart home to detect noise levels and adjust music volume on stereo when it's in party mode
+208|SERVICE|turn off|17|25|wall chargers to turn off after the phone is fully charged
+209|SERVICE|talk|12|16|The oven to talk with basic information 
+211|SERVICE|send|10|14|device to send the heat my computer produces to go out of my window
+212|SERVICE|alert|17|22|my smart home to alert me to any odd environment fluctuations in my home that may signal fire, burst pipe, oven left on, burglary
+213|SERVICE|alert|13|18|my shower to alert me of the current amount of hot water left
+214|SERVICE|heat|15|19|Toilet seat to heat
+218|SERVICE|alert|17|22|my smart home to alert me by text when my light bulbs are about to run out
+220|SERVICE|open|30|34|The door to the dog's room to open and let them out, while also unlocking the front door when I pass a geofence and I'm on my way home from work.
+221|SERVICE|tell|17|21|my smart home to tell where smoke or carbon monoxide is coming from when the alarm goes off
+222|SERVICE|realize|11|18|Sensors to realize when I am tossing and turning in bed and turn the temperature in the room down automatically.
+223|SERVICE|realize|11|18|Sensors to realize when there is smoke coming from the oven (and only from the area of the oven) and automatically turn the oven off while sending me an alert and giving me the option to alert the fire department as well.
+224|SERVICE|detect|11|17|Sensors to detect when I've left a room and automatically turn off the lights. 
+225|SERVICE|adjust|11|17|Sensors to adjust the lights based on my current activity. So if I sit down at the computer it will turn on the desk lamp, or if It sees me sitting on the couch with the TV on it will turn the lights to 50%, but if it sees me sitting on the couch with the TV off it knows I want to read, and will adjust lights accordingly. This could work for many rooms and activities. 
+226|SERVICE|monitor|17|24|my smart home to monitor and remember local outdoor temperatures and calculate degree heating days (or degree cooling days)
+229|SERVICE|remember|17|25|my smart home to remember optimal volume settings for TV and music throughout the house and use them unless over-ridden
+230|SERVICE|alert|17|22|my smart home to alert me when ice has re-formed on sidewalks and driveway
+231|SERVICE|controls|23|31|A command kitchen that controls appliances by voice
+237|SERVICE|notify|11|17|my home to notify me when someone approaches the main door
+238|SERVICE|notify|11|17|my home to notify me if carbon dioxide levels exceed a certain level
+239|SERVICE|regulate|43|51|moisture sensors in my vegetable garden to regulate the drip irrigation
+240|SERVICE|notify|11|17|my home to notify me when my favorite TV show has been recorded on the DVR
+244|SERVICE|notify|11|17|my home to notify me if any outside window or door is accessed 
+245|SERVICE|alert|67|72|monitor all our utility meters (e.g., gas, electricity, water) and alert me when we're above our typical usage
+246|SERVICE|shift|25|30|my home to automatically shift my music from one room to the next as I traverse from room to room
+247|SERVICE|notify|11|17|my home to notify me if there is any standing water below my crawl space
+248|SERVICE|notify|12|18|my house to notify me if and when my children leave and enter the house 
+249|SERVICE|notify|12|18|my house to notify me if there are any accidents and/or traffic delays on the local freeways
+250|SERVICE|notify|11|17|my home to notify me before my smoke detector batteries starting beeping due to low power 
+251|SERVICE|notify|12|18|my house to notify me if any of my pets get outside of the house
+253|SERVICE|sense|22|27|my heated driveway to sense when there is snow on it
+255|SERVICE|switches|48|56|a smart outdoor water system that automatically switches between cisterns/rain barrels, gray water system and utility supply depending on what is available
+257|SERVICE|alert|12|17|a buzzer to alert me when my trash can is full
+258|SERVICE|shut|13|17|the stove to shut itself off when my food is done being cooked
+259|SERVICE|turn|14|18|the lights to turn themselves off if they sense a room is empty
+260|SERVICE|alert|16|21|my treadmill to alert me when I haven't used it in too long
+261|SERVICE|detect|17|23|my smart home to detect when someone's glucose level is dropping or becoming too high
+262|SERVICE|monitor|3|10|to monitor when the baby is waking up from sleep
+263|SERVICE|check|3|8|to check whether i have closed all the taps
+264|SERVICE|notify|17|23|my smart home to notify me when it detects possible carbon dioxide
+265|SERVICE|check|3|8|to check whether all the lights are off in day time
+266|SERVICE|cut|17|20|my smart home to cut off electrical equipment/appliances when no one is in a particular room
+267|SERVICE|raises|53|59|to on my a/c automatically when the room temperature raises above 30 degree celcius
+268|SERVICE|close|14|19|shutters that close or open based on weather
+269|SERVICE|know|3|7|to know any unusual moves like cats, dogs,other than humans
+270|SERVICE|refill|31|37|my smart home to automatically refill the pet's water and food bowl through an automated system
+271|SERVICE|turn|16|20|ceiling fans to turn on when house temperature begins to rise
+272|SERVICE|prevent|17|24|my smart home to prevent children from accessing the oven and other dangerous appliances when an adult is not at home
+273|SERVICE|acts|17|21|a door lock that acts as a camera and speaker
+274|SERVICE|alert|3|8|to alert me when something usual happened like fire,smoke
+275|SERVICE|react|17|22|my smart home to react to my voice and play whatever song I request
+276|SERVICE|alert|3|8|to alert me when i need to service my fridge, washing machine
+277|SERVICE|open|17|21|a door that will open for my dog
+278|SERVICE|shut|16|20|ceiling fans to shut off when bird is in the room
+279|SERVICE|shut|6|10|tv to shut off when I fall asleep
+280|SERVICE|monitor|3|10|to monitor what the baby is doing all the time
+281|SERVICE|find|3|7|to find whether unnecessary things are there in floor like needles, hocks,
+282|SERVICE|signal|11|17|mailbox to signal me when something's in it
+283|SERVICE|show|15|19|door camera to show image on my smartphone or tv when someone is outside
+284|SERVICE|turn|9|13|water to turn off when I am brushing my teeth
+285|SERVICE|lock|27|31|The front and back door to lock whenever my child under 8 years old tries to open it without entering a selected code
+286|SERVICE|turn|35|39|the rooms lights and appliances to turn off or go into sleep/hibernation mode after 30 minutes of no movement in the room
+287|SERVICE|emit|17|21|my dishwasher to emit a beeping sound or text my phone when it is full and when the dishes are cleaned
+288|SERVICE|turn|17|21|My smart home to turn off appliances when they are not in use.
+289|SERVICE|stove|13|18|the oven and stove to not turn on unless a certain sequence of buttons or a code is entered
+290|SERVICE|notify|11|17|my home to notify me when I am using too much energy.
+291|SERVICE|adjust|17|23|my smart home to adjust to the weather conditions outside, when I am inside/home
+292|SERVICE|warm|29|33|the floors in my bathroom to warm up when I get in or out of the shower
+293|SERVICE|open|17|21|my smart home to open the blinds in the morning
+294|SERVICE|adjust|35|41|the temperature in the bathroom to adjust 
+295|SERVICE|warn|17|21|my smart home to warn me if there is mold in the air, in my fridge or bathroom.
+296|SERVICE|notify|17|23|my smart home to notify me when my carpet needs cleaning.
+297|SERVICE|switch|17|23|my smart home to switch to a channel on TV and  text me when there is breaking news of great importance.
+298|SERVICE|adjust|26|32|the windows in my home to adjust to the sunlight or lack of sunlight
+299|SERVICE|warn|17|21|my smart home to warn me when there is potential damage to the floors, walls or carpet.
+300|SERVICE|alert|22|27|the smoke detector to alert me to fires, smoke, carbon monoxide in a human voice that tells me where the danger is
+301|SERVICE|broadcast|17|26|my smart home to broadcast video to my phone
+302|SERVICE|alerts|18|24|a smart home that alerts me when my pet has left the premises by a tracker that is attached to his collar
+303|SERVICE|alerts|18|24|a smart home that alerts my phone when a locked door or window has been opened
+304|SERVICE|features|12|20|a home that features lights that can be remotely controlled via my smart phone
+305|SERVICE|features|18|26|a smart home that features vacuum terminals built into the corner of certain corners of the house
+306|SERVICE|features|16|24|smart home that features door locks that can be remotely locked and unlocked via a passcode on my phone
+307|SERVICE|features|18|26|a smart home that features usage statistics that can calculate electric and water output according to room
+308|SERVICE|tells|20|25|a refrigerator that tells me when my food is about to expire, and makes lists for the items I need
+309|SERVICE|conditioning|14|26|a central air conditioning unit that automatically orders new air filters for itself when air quality diminishes
+310|SERVICE|communicates|18|30|a smart door that communicates with my phone and unlocks itself automatically when I'm next to it, then locks itself once I'm inside
+311|SERVICE|knows|19|24|a smart chair that knows who is sitting in it, then turns on the tv/entertainment system based on that individual's preferences, then turns if off or pauses media when I stand up
+312|SERVICE|determine|31|40|smart plates for food that can determine what type of food I've placed on it, and aggregate nutritional information to be displayed on a smart table while I'm eating
+313|SERVICE|knows|25|30|a smart alarm clock that knows my name and talks to me, convincing me to wake up, and reminding me of my appointments for the day that I'm going to be late for. Maybe it could talk with my smartphone about how lazy I'm being, and how we go through this every morning.
+314|SERVICE|determine|23|32|a smart dryer that can determine when my clothes are dry, then turn itself off and send me a notification on my phone
+315|SERVICE|needed|72|78|a smart washing machine that can order its own detergents/supplies when needed
+316|SERVICE|tell|45|49|a smart closet, with smart hangers, that can tell me the last time I wore the clothing that's hanging from a specific rack
+317|SERVICE|monitor|30|37|smart faucets on my sink that monitor the water for pollutants, and alert me if any new threats are found
+318|SERVICE|tell|36|40|smart floors and furniture that can tell me if a small object is resting somewhere it shouldn't be (like if I couldn't find my keys)
+319|SERVICE|know|3|7|to know when I am about to fall asleep
+320|SERVICE|know|3|7|to know when my kids are leaving the house
+321|SERVICE|clean|17|22|my smart home to clean my cats's litter box whenever its soiled
+322|SERVICE|know|3|7|to know when my children are not feeling well
+323|SERVICE|drives|22|28|an alert when someone drives up to my house.
+324|SERVICE|know|3|7|to know when there is an intruder
+325|SERVICE|need|16|20|when the plants need to be watered
+326|SERVICE|adjust|17|23|my smart home to adjust the temperature depending on if someone is home or not
+327|SERVICE|know|3|7|to know when I need to exercise
+328|SERVICE|remind|17|23|my smart home to remind me of any activities my kids need to go to
+329|SERVICE|built|0|5|built in clocks in the tv's in each room
+330|SERVICE|Automated|0|9|Automated cleaners
+331|SERVICE|tells|23|28|an energy feature that tells me when I have used a certain amount of electricity.
+332|SERVICE|know|3|7|to know what my children are doing
+334|SERVICE|turn off|3|11|to turn off the air conditioner when I am away from home
+335|SERVICE|alert|17|22|my television to alert me when someone calls the home line
+336|SERVICE|light|34|39|a sensor in the refrigerator that light up the container if food starts going bad
+337|SERVICE|open|24|28|control who my children open the door for when the doorbell rings
+338|SERVICE|help|17|21|My smart home to help me keep track of what my responsibilities are
+339|SERVICE|alert|18|23|my baby's crib to alert me when my infant wakes up, via my iphone or apple watch
+340|SERVICE|set|22|25|a washer that you can set a timer to start when you are ready
+341|SERVICE|control|3|10|to control what electronic devices my children have access to when I am away from home
+342|SERVICE|turn|17|21|my television to turn on and off with the sound of my voice
+343|SERVICE|turn|21|25|something that would turn on music by the sound of my voice.
+344|SERVICE|lock|14|18|my mailbox to lock when it senses the mailman has filled it with mail
+345|SERVICE|alert|13|18|my iphone to alert me when my dog is distressed/barking via a smart collar
+346|SERVICE|built|0|5|built in smoke detector and carbon monoxide detector with alarms
+348|SERVICE|tell|13|17|sensors that tell me if someone or something leaves my house
+349|SERVICE|left|17|21|monitor packages left on my front porch/doorstep
+351|SERVICE|alert|12|17|my house to alert me by text if motion inside is detected while I'm gone
+352|SERVICE|receive|3|10|to receive a text if the fridge is opened
+353|SERVICE|alert|12|17|my phone to alert me if carbon monoxide levels are outside of the normal range
+354|SERVICE|turn on|17|24|my television to turn on my favorite shows when I walk in the room
+356|SERVICE|receive|3|10|to receive a preliminary text about the smoke detector before it actually goes off
+357|SERVICE|alert|22|27|my laundry machine to alert me via phone notification when the cycle is complete
+358|SERVICE|straightens up|14|28|a closet that straightens up the coats as we throw them in there
+359|SERVICE|receive|3|10|to receive an alert if I've left the oven or stove on after I've finished cooking
+360|SERVICE|alert|12|17|my dryer to alert me via phone notification when my dryer has completed
+361|SERVICE|control|3|10|to control the temperature of my water heater
+362|SERVICE|receive|3|10|to receive an alert if it's going to rain and I have a door or window open in my home
+363|SERVICE|open|17|21|my smart home to open for my latchkey kid after school via voice command
+364|SERVICE|adjust|26|32|the heat to automatically adjust when people enter or exit a room
+365|SERVICE|alerts|18|24|a showerhead that alerts me when I use more than an amount predetermined by me
+366|SERVICE|receive|3|10|to receive an alert if motion is detected on my driveway or front doorstep
+367|SERVICE|limit|17|22|my smart home to limit my son's internet and video game usage
+368|SERVICE|turn on|6|13|TV to turn on when i enter the room and to use voice commands to control it
+370|SERVICE|lock|11|15|doors that lock automatically in the evening
+371|SERVICE|darken|27|33|my smart home's windows to darken in response to the amount of outdoor light
+373|SERVICE|activated|6|15|voice activated virtual assistant
+374|SERVICE|ring|17|21|my smart home to ring a bell at meal times
+376|SERVICE|know|11|15|my gate to know who's entering
+377|SERVICE|locks|10|15|a TV that locks itself after it's kids bed time
+378|SERVICE|rings|12|17|an app that rings when my vitamins are due
+380|SERVICE|sense|16|21|an app that can sense my mood
+381|SERVICE|absorb|11|17|tiles that absorb the water in washrooms after shower
+382|SERVICE|sense|15|20|tiles that can sense water
+383|SERVICE|tracks|20|26|a refrigerator that tracks how long milk has been inside
+384|SERVICE|starts|12|18|lights that starts fading out and then finally turn off if I fall asleep
+385|SERVICE|senses|14|20|a toilet that senses how much to flush and automatically does that
+386|SERVICE|sense|17|22|carpets that can sense when my kid is about to fall
+387|SERVICE|sanitized|10|19|automatic sanitized door knobs and faucets
+388|SERVICE|turn|14|18|the lights to turn on when i enter and off when i leave a room
+389|SERVICE|identify|17|25|my smart home to identify party guests at the door before I open it
+390|SERVICE|block off|17|26|my smart home to block off areas of my house from pet access at specific times of the day
+392|SERVICE|verify|17|23|my smart home to verify the identify of my pets before letting them in
+393|SERVICE|track|17|22|my smart home to track what items I am removing from the pantry and fridge
+394|SERVICE|track|15|20|the ability to track humidity levels in each room of my house
+395|SERVICE|monitor|17|24|my smart home to monitor my utility usage and costs.
+396|SERVICE|notify|17|23|my smart home to notify me immediately if I leave the house without turning off the oven or leave food in too long.
+398|SERVICE|notify|17|23|my smart home to notify me when food and water levels in my pets dishes are low.
+399|SERVICE|track|17|22|my smart home to track my energy usage by the specific environmental impact my different utilities have.
+400|SERVICE|track|17|22|my smart home to track different allergens in the air including part hair and dust particles.
+401|SERVICE|track|17|22|my smart home to track when different baby gates have been opened.
+402|SERVICE|track|17|22|my smart home to track how much in utilities each occupant uses.
+405|SERVICE|detect|17|23|my thermostat to detect my body temperature and location in the room
+406|SERVICE|detect|10|16|my bed to detect my sleep patterns
+407|SERVICE|glows|17|22|an orb lamp that glows the daily ups and downs of my portfolio
+408|SERVICE|notify|17|23|my smart home to notify me via my smart phone and shows me his picture when he opens the front door
+409|SERVICE|determine|9|18|my tv to determine my mood based on my emails, text, social media postings and phone calls, and day of the month and other factors
+410|SERVICE|detect|19|25|my entire house to detect subtle hints of psychological abnormalities, whether depression or unknown genetic defects, that get express through small but still perceptible physical irregular movements
+411|SERVICE|send|16|20|a smart home to send me a text via my smart phone when it is time to change ac and heater's filters
+412|SERVICE|archive|12|19|my house to archive where everything is located
+413|SERVICE|start|20|25|my bread machine to start automatically and be ready in the morning
+414|SERVICE|set|17|20|my thermostat to set itself to my ideal temperature when it detects my present
+415|SERVICE|start|29|34|my robotic vacuum cleaner to start automatically twice a week
+416|SERVICE|detect|14|20|my windows to detect sound waves
+419|SERVICE|turn on|21|28|my lights and tvs to turn on automatically when I am not home, and it detects an intruder
+420|SERVICE|fill|28|32|my bathtub to automatically fill, and set itself to hot temperature and add a bubble bath solution at the push of a button.
+421|SERVICE|activated|8|17|a voice activated warning when the energy cost is more than certain amount
+422|SERVICE|cut|37|40|A lawn mower device to automatically cut my grass when it detects it is above a certain height, similar to a roomba vacuum robot.
+424|SERVICE|inform|17|23|my smart home to inform me when my favorite ice cream is almost gone
+425|SERVICE|knows|36|41|a coffee machine that automatically knows how many people are in my house, and prepare the proper portion of coffee for those people
+426|SERVICE|turns|16|21|my alarm system turns on and off automatically at preset times
+427|SERVICE|alert|11|16|My home to alert me to possible damage
+428|SERVICE|alert|11|16|My home to alert me to changing environmental issues
+429|SERVICE|alert|11|16|My home to alert me to dangerous situations in my surrounding area
+430|SERVICE|start|11|16|My home to start the self cleaning litter box for me
+431|SERVICE|alert|14|19|My kitchen to alert me when I leave an appliance on that shouldn't be
+432|SERVICE|alert|11|16|My home to alert me to my favorite shows and DVR them for me when I am not home
+433|SERVICE|monitor|11|18|My home to monitor my energy usage
+434|SERVICE|monitor|15|22|the ability to monitor my dog's water bowl
+435|SERVICE|turn|24|28|lights to automatically turn off when I'm not present
+436|SERVICE|turn|17|21|my television to turn on when my favorite sports team plays
+437|SERVICE|shut|9|13|doors to shut automatically if I leave them open unattended
+438|SERVICE|clean|14|19|my gutters to clean themselves when full
+439|SERVICE|lock|35|39|my external doors to automatically lock after 30 seconds
+440|SERVICE|clean|11|16|my oven to clean itself periodically
+442|SERVICE|moves|11|16|music that moves with me into the next room
+443|SERVICE|switch|9|15|a way to switch what i'm watching on one screen to move to another room
+444|SERVICE|turn on|30|37|my pool pump to automatically turn on for a set amount of time that I set
+445|SERVICE|view|17|21|a digital way to view my wardrobe and select pieces to make an outfit and have them brought to me
+446|SERVICE|open|3|7|to open my garage door 
+447|SERVICE|turn|9|13|my tv to turn on when my selected show are on
+448|SERVICE|tracks|15|21|something that tracks what my body needs nutrition-wise throughout the day by monitoring me every morning, and can alert me when i might be getting sick
+450|SERVICE|check|3|8|to check the purity and quality of my water i use for drinking 
+451|SERVICE|sense|28|33|lights and electronics that sense when i've fallen asleep and adjust automatically
+452|SERVICE|turn on|21|28|my coffee machine to turn on at 6:45 am
+453|SERVICE|open|11|15|doors that open via sensor if my hands are full
+454|SERVICE|mix|18|21|a device that can mix cocktails and allows me to choose what i want made
+455|SERVICE|control|3|10|to control temperature and spray of my shower
+456|SERVICE|move|31|35|A big tv in the attic that can move into whatever room I'm in
+457|SERVICE|notify|17|23|my smart home to notify me whenver water is leaking from a faucet
+458|SERVICE|monitor|3|10|to monitor my pets health problem automatically with detecting device  
+459|SERVICE|turn|20|24|my heated floors to turn on at 6:45 am 
+460|SERVICE|operated|10|18|a machine operated bed 
+461|SERVICE|wash|12|16|A device to wash stove and tables
+462|SERVICE|detect|26|32|surfaces to automatically detect and report sanitation levels in real time
+463|SERVICE|adjust|41|47|my smart home's showers to automatically adjust to my desired water temperature
+464|SERVICE|projected|0|9|projected figure to assist me with a click of a remote
+465|SERVICE|locate|13|19|a feature to locate commonly misplaced items, phones, glasses, wallets, keys
+470|SERVICE|dim|26|29|lights that automatically dim and shut off, after there is no movement in the room for a period of time
+471|SERVICE|monitored|32|41|my daily purchase of home needs monitored and done automatically with the help of mobile application 
+472|SERVICE|alert|17|22|my smart home to alert my family when there is bad weather approaching
+473|SERVICE|listen|3|9|to listen to the latest NFL scores
+474|SERVICE|optimized|0|9|optimized lighting system
+477|SERVICE|monitor|27|34|an alarm system that i can monitor anywhere
+478|SERVICE|display|12|19|my walls to display concert footage, automatically adjust acoustics of the room for optimal sound, and display light effects
+480|SERVICE|paid|73|77|a virtual inventory of my closet, and daily suggestions for outfits from paid fashionistas online
+482|SERVICE|detects|25|32|monitoring software that detects nudity, drug use, and foul language and sends me live footage when it occurs
+484|SERVICE|built|2|7|"a built in ""SIRI"" like assistant"
+485|SERVICE|refilled|38|46|my pet's food and water automatically refilled while I'm away
+486|SERVICE|set|17|20|My smart home to set reminders to start laundry and alerts when laundry is done.
+487|SERVICE|monitor|12|19|videos that monitor the inside of my home
+488|SERVICE|monitored|40|49|my refrigerator and freezer temperature monitored
+489|SERVICE|notify|17|23|my smart home to notify me if the household's carbon footprint is getting too high
+490|SERVICE|refill|32|38| my smart home to automatically refill the pet's water and food bowl through an automated system
+491|SERVICE|adjusted|30|38|the temperature automatically adjusted inside my home when there are external changes in temperature to compensate
+492|SERVICE|shut|17|21|my smart home to shut off lights when I leave the room
+493|SERVICE|remote|7|13| I can remote activate anything even not in the kitchen
+494|SERVICE|record|12|18|the door to record the time of day or night it is opened
+495|SERVICE|control|17|24|my smart home to control water intake by alerting me when I go above my set use.
+496|SERVICE|talk|13|17| The oven to talk with basic information
+498|SERVICE|monitored|32|41|my elderly parent's vital signs monitored, for example heart rate, how long the person has been sitting, lying down or immobile
+499|SERVICE|turn on|31|38|my smart home to automatically turn on the sprinklers and water the lawn in conjuction with my mobile devices
+500|SERVICE|capture|17|24|My smart home to capture a picture and alert me via a specific sound and a text message via mobile phone when a vehicle enters my driveway,
+501|SERVICE|lower|3|8|to lower and raise the volume on my TV verbally from any room in the house
+502|SERVICE|alert|17|22|my smart home to alert me when it is time for a meal.
+503|SERVICE|close|32|37| my smart home to automatically close and open pre-specified window shades, and to turn on-off specific lights in and around my home automatically each night and each day,
+504|SERVICE|alert|17|22|my smart home to alert me via a specific sound and a text message via mobile phone when a personal parcel package is delivered to my door
+505|SERVICE|regulate|0|8|regulate my bore well motor
+507|SERVICE|Switch on|0|9|Switch on all electric goods during enter the room
+508|SERVICE|close|31|36|my smart home to automatically close and open pre-specified window shades, and to turn on-off specific lights in and around my home automatically each 
+509|SERVICE|check|6|11|it to check each room and turn off lights if a person is not in the room
+510|SERVICE|regulate|3|11|to regulate the motor 
+511|SERVICE|stop|3|7|To stop the burner
+512|SERVICE|increase|0|8|increase the heart beat
+513|SERVICE|regulate|3|11|to regulate the pressure
+514|SERVICE|know|3|7|to know the weather
+516|SERVICE|maintain|0|8|maintain the working hours arrange the good teacher for free students
+517|SERVICE|send|17|21|my smart home to send an alert to my phone when my children cut any electronics on after 10 pm.
+518|SERVICE|alert|17|22|my smart home to alert me to when my child starts to exhibit signs of an asthma attack by flashing a red light with a human voice alert
+519|SERVICE|control|17|24|my smart home to control the volume after 10pm. by automatically turning it down low if it is too loud
+521|SERVICE|preheat|17|24|my smart home to preheat my oven and turn on my coffeemaker at 7:00 am
+522|SERVICE|sort|17|21|my smart home to sort through the trash at certain intervals and extract recyclables from the trash
+523|SERVICE|responds|18|26|a smart home that responds to my voice when I ask for weather and traffic updates by relaying the information through a human-like voice
+524|SERVICE|fill|36|40|my cat's food bowl to automatically fill itself when empty or it is time to feed my cat and to seal when the cat is not eating
+525|SERVICE|decrease|23|31|my house thermostat to decrease when I am sleeping
+526|SERVICE|notify|12|18|my house to notify me when someone is going to be entering my recording room
+527|SERVICE|set|12|15|my house to set an alarm for me when I request it to
+528|SERVICE|notify|11|17|My home to notify me when it is time to water certian house plant
+529|SERVICE|alert|17|22|my smart home to alert me when there is difference in elder person's movements.
+531|SERVICE|turn off|12|20|My house to turn off christmas decorations at night when I do to sleep
+533|SERVICE|turn on|17|24|The crock pot to turn on at a certain time of the day
+535|SERVICE|notify|17|23|my smart home to notify me when it detects gas leakage
+536|SERVICE|tell|12|16|my house to tell me when a load is done
+537|SERVICE|control|23|30|temperature sensors to control the heat of the hob or oven
+538|SERVICE|alert|17|22|my smart home to alert me when i have low or high amount of sleep.
+539|SERVICE|turn off|0|7|turn off lights when nobody is in the room during the daytime only
+540|SERVICE|alert|0|5|alert me when something usual happened like fire,smoke
+541|SERVICE|send|25|29|an emergency alarm which send messages to pre selected numbers
+542|SERVICE|turns on|32|40|automatic lighting system which turns on light after getting dark
+543|SERVICE|alert|14|19|an feature to alert me when i spend too much time on social networks
+544|SERVICE|turn off|14|22|automatically turn off gas during earthquake or fire
+545|SERVICE|alert|0|5|alert me when i need to service my fridge, washing machine
+546|SERVICE|alert|17|22|my smart home to alert me when i spend too much time watching televisions.
+547|SERVICE|close|28|33|my windows to automatically close when it rains
+548|SERVICE|turn on|17|24|my smart home to turn on Air conditioner when the temperature is high and can sense human presence in the room
+549|SERVICE|turn off|22|30|the unnessary taps to turn off
+550|SERVICE|switch|13|19|the motor to switch off when the tank is full
+551|SERVICE|turn on|14|21|the lights to turn on at 6 if nobody is at home
+552|SERVICE|remain|15|21|the windows to remain dust free
+553|SERVICE|lock|3|7|to lock the cartoon channels after 1 hour
+554|SERVICE|become|31|37|the temperature in my house to become more energy efficient when I leave but raise again when I come back
+555|SERVICE|block|34|39|my window blinds to automatically block out the sun
+556|SERVICE|detects|15|22|a feature that detects when the room could use a boost of aromatherapy
+557|SERVICE|dim|12|15|lights that dim as well as change color
+558|SERVICE|set|9|12|a system set up through the house that notifies me when items are cooked or other kitchen-related messages
+559|SERVICE|view|9|13|a way to view a live stream of my pet when I am out of the house
+560|SERVICE|recycling|18|27|my trash cans and recycling bin automatically returned to my garage after trash pickup
+561|SERVICE|hamper|22|28|A smart dirty clothes hamper that takes clothes and sorts then and washes at a specified time
+562|SERVICE|look|44|48|a waterproof screen in the kitchen that can look up recipes and play cooking instructional videos without me having to touch it
+563|SERVICE|detects|14|21|a sensor that detects a person lying on the floor for more than one minute
+565|SERVICE|washes|19|25|a shower head that washes my hair for me
+566|SERVICE|sanitize|25|33|floors and counters that sanitize themselves
+567|SERVICE|appear|30|36|laser lights and toy balls to appear at random intervals
+569|SERVICE|reads|14|19|a device that reads any book/notes I hover it over
+572|SERVICE|test|12|16|my house to test itself for radon levels twice a year
+573|SERVICE|turn off|22|30|Automatic lights that turn off whenever I leave the room
+574|SERVICE|detects|23|30|Automatic Garbage that detects when it is full and Empties itself to the curb
+577|SERVICE|track|18|23|the bed itself to track sleep patterns and give suggestions
+578|SERVICE|turn|14|18|An Ac unit to turn off when it reaches a certain temperature. 
+580|SERVICE|tracks|18|24|"""piggy"" bank that tracks the money added and responds with congratulations and other comments"
+581|SERVICE|controls|28|36|a sophisticated shower that controls temperature, light, water pressure, etc. and responds to voice commands
+583|SERVICE|filter|15|21|my internet to filter adult sites.
+584|SERVICE|bulbs|10|15|my lights bulbs to turn off after 5 minutes
+585|SERVICE|catalog|24|31|a refrigerator that can catalog the items inside and alert me how long they've been in there and if they should be eaten soon
+586|SERVICE|alert|12|17|my house to alert me to mold inside my walls
+587|SERVICE|turn off|17|25|my television to turn off every 2 hours
+588|SERVICE|suggest|11|18|my home to suggest movies out loud based on the time of year 
+589|SERVICE|change|18|24|the tv channel to change with my voice
+590|SERVICE|turns on|69|77|low-level lighting in the floors and potentially the walls that only turns on as I'm walking through that area at night
+591|SERVICE|open|19|23|the doggie door to open at certain times of the day,
+592|SERVICE|connect|12|19|my scale to connect to my ipad
+593|SERVICE|beep|22|26|my smoke alarms would beep when the battery gets low.
+594|SERVICE|suggests|28|36|a smart weather device that suggests certain times that would be best for certain activies
+595|SERVICE|react|17|22|my smart home to react to my voice and play a movie that I request,
+596|SERVICE|lock|12|16|my doors to lock automatically.
+597|SERVICE|hear|3|7|to hear an alarm if I did not exercise that day
+598|SERVICE|alert|13|18|my fridge to alert me when I am low on milk and cereal
+599|SERVICE|analyses|14|22|a device that analyses the air and lets me know when its not clean
+600|SERVICE|react|17|22|my smart home to react to my voice and DVR a show or shows that I specify,
+601|SERVICE|ring|12|16|an alarm to ring when a gun thats not mine enters the home
+602|SERVICE|wake|8|12|home to wake me up for work
+603|SERVICE|alert|17|22|my smart home to alert the police if someone is trying to break in,
+604|SERVICE|alert|17|22|my smart home to alert the fire department if a fire is detected,
+605|SERVICE|detect|17|23|my smart home to detect our foods are 100% organic 
+606|SERVICE|turn on|13|20|my heater to turn on when the temperature gets too low 
+607|SERVICE|turn on|21|28|my outside lights to turn on at night
+608|SERVICE|detect|17|23|My smart home to detect either virus or bacteria's presence in home 
+609|SERVICE|alert|18|23|my smart house to alert me when I am about to run out of a grocery item,
+611|SERVICE|calculate|17|26|My smart home to calculate Our walking step inside home individual 
+612|SERVICE|detect|11|17|My home to detect weapons or harmful materials who is inside the home
+613|SERVICE|alert|17|22|my smart home to alert me when I have been inactive for too long,
+614|SERVICE|calculate|11|20|My home to calculate calorie intake and burn in possible ways with smartphone
+615|SERVICE|remind|17|23|my smart home to remind to exercise and track my progress,
+616|SERVICE|activate|17|25|my smart home to activate the Roomba at certain times of the day,
+617|SERVICE|track|17|22|My smart home to track my previous music and interest suggest new arrivals which is slimier to my interest 
+618|SERVICE|detect|11|17|My home to detect carbon emission from my refrigerator,mobile radiation level,or there is any other radioactive particle inside home which is more than normal suggested level
+619|SERVICE|track|11|16|My home to track small kids activity and alarm us when they fall down something like that
+620|SERVICE|track|17|22|My smart home to track time based activity and prepare regarding for that.For example for three days after walking up if i turn on water heater fourth day it should turn on when I wake up like that
+621|SERVICE|sound|12|17|an alarm to sound if a TV is still powered on after leaving the house
+622|SERVICE|sound|12|17|an alarm to sound if the garage door is left open after a car enters/exits
+627|SERVICE|turn off|18|26|all appliances to turn off when people leave the room 
+628|SERVICE|shut|5|9|auto shut down feature for everything when we leave the home 
+629|SERVICE|turn on|27|34|the main living room tv to turn on at specific times when i get home 
+630|SERVICE|turn off|5|13|auto turn off feature for stove if left on too long 
+631|SERVICE|remind|26|32|an auto feature that will remind me to change water sofner 
+632|SERVICE|tell|12|16|my phone to tell me when someones within yards of my front door 
+633|SERVICE|alert|0|5|alert me when I am about to run out of medication
+634|SERVICE|adjusts|15|22|a freezer that adjusts temperature based on room temperature
+635|SERVICE|alert|31|36|automatic soap dispensers that alert you when someone uses the sink but forgets soap
+636|SERVICE|detect|53|59|plants that water themselves with a gadget when they detect water is needed
+637|SERVICE|alert|12|17|an alarm to alert me when my dog's bowl needs cleaning
+638|SERVICE|heated|8|14|lightly heated windows 
+639|SERVICE|start|17|22|my smart home to start laundry after it senses a full load of clothes. 
+640|SERVICE|turn off|19|27|light sensors that turn off after 3 minutes of not detecting someone in the room
+641|SERVICE|alert|26|31|alarm systems on doors to alert me if a door is unlocked after 9pm so it can remind me to lock it
+644|SERVICE|adjust|17|23|my smart home to adjust my blinds when it gets light or dark,
+645|SERVICE|heat|17|21|my smart home to heat the oven
+646|SERVICE|run|17|20|my smart home to run a bath tub at optimal temperature 
+648|SERVICE|know|17|21|my smart home to know when it has rained the last few days and not run my sprinklers
+649|SERVICE|change|14|20|my furnace to change filters automatically (have a storage of 6 in it and rotates through those every month)
+650|SERVICE|integrate|12|21|my house to integrate to my phone and tell me when I need to service or repair something
+653|SERVICE|perpare|33|40|my coffee maker to automatically perpare itself for the next mornign with water and coffee
+654|SERVICE|open|26|30|the door to automatically open if the dog is at the door
+655|SERVICE|turn on|33|40|my outside home video cameras to turn on when the motion light is activated
+656|SERVICE|send|10|14|my car to send an alert to my smartphone if I forget to lock it
+657|SERVICE|turn off|24|32|a nightlight that I can turn off with my smartphone after my child is asleep
+658|SERVICE|turns on|10|18|a TV that turns on at a specific time, to a specific channel, at a specific volume 
+659|SERVICE|start|26|31|a coffee maker that I can start from my smartphone
+661|SERVICE|alert|13|18|a feature to alert me when the fence gate has been opened
+663|SERVICE|shut|24|28|a garage door that will shut itself if it is open after a specified time
+671|SERVICE|know|32|36|my thermostats to automatically know when I want the home cooler or warmer
+672|SERVICE|start up|26|34|my stove to automatically start up when I push a button and heat water I have set on the stove
+673|SERVICE|tells|14|19|a shower that tells me when I have over exceeded the time limit of five minutes (or whatever I set)
+674|SERVICE|shut off|26|34|my water in the shower to shut off after 10 minutes
+675|SERVICE|turn off|12|20|my house to turn off interior Christmas lights when I leave the house
+676|SERVICE|lock/unlock|3|14|to lock/unlock my door by fingerprint touchscreen
+677|SERVICE|detect|12|18|my house to detect if there is mold in the walls
+678|SERVICE|control|3|10|it control my computer
+679|SERVICE|control|3|10|to control sprinklers
+680|SERVICE|unlock|25|31|A hand scanner that will unlock my door. 
+682|SERVICE|detect|18|24|My smart house to detect any music on my phone and play it accordingly.
+686|SERVICE|lock|40|44|They doors and windows to automatically lock at certain times.
+687|SERVICE|regulate|18|26|the thermostat to regulate temperature independently based on if people are in the house or not
+688|SERVICE|turned on|11|20|coffee pot turned on at 5am
+689|SERVICE|prepare|14|21|my kitchen to prepare a meal for me by itself
+691|SERVICE|secured|20|27|My smart home fully secured
+692|SERVICE|turned on and set|7|24|shower turned on and set at warm temperature
+693|SERVICE|cleans up|18|27|a smart maid that cleans up after messes that are made
+695|SERVICE|lock and unlock|12|27|cabinets to lock and unlock based on a hand print or thumbprint
+697|SERVICE|regulate|17|25|the hot water to regulate based on which person is taking a shower
+699|SERVICE|arm|11|14|my home to arm the alarm itself every night at a certain time
+701|SERVICE|lock|27|31|the doors to automatically lock after a certain time of not opening or closing the doors 
+703|SERVICE|sound|41|46|small alarms around windows and doors to sound when outside wind or drafts enter specific places
+704|SERVICE|turn|30|34|the automatic wall heating to turn on
+705|SERVICE|sync|11|15|my home to sync with my fitbit in order to prepare a meal/drink and adjust room temperatures 
+706|SERVICE|call|17|21|my smart home to call my cell phone when my child enters the home
+708|SERVICE|start|13|18|my shower to start on its own in the morning
+709|SERVICE|take|19|23|my refrigerator to take inventory of my groceries
+710|SERVICE|check|14|19|smart home to check for movement in my home prior to my entering
+712|SERVICE|unlock|18|24|the front door to unlock and open
+715|SERVICE|know|10|14|My car to know when i'm ready to go before i get there from my house network
+717|SERVICE|monitor|11|18|my home to monitor clothes and bed sheets from the last time they were laundered
+718|SERVICE|monitor|11|18|my home to monitor my body and it's functions and test excretions for possible ailments
+719|SERVICE|track|16|21|refrigerator to track the items it stores and provide a digital reading when items are running low 
+720|SERVICE|vacuum|3|9|my vacuum to vacuum the home at a specific time each day
+723|SERVICE|provide|9|16|my TV to provide me with a list of options based on my preset and prioritized preference and automatically beep and change to the best show for me at that time
+724|SERVICE|detect|17|23|my smart home to detect when a room is vacant for a specified amount of time and turn off all lights in that room
+725|SERVICE|lock|21|25|the refridgerator to lock after 10 pm
+727|SERVICE|run|22|25|my dishwasher to only run after a specified time
+729|SERVICE|shut|5|9|self shut off pressure valves for furnace 
+731|SERVICE|notify|17|23|my smart home to notify me on my cell when the smoke detectors' batteries are getting low 
+732|SERVICE|detect|17|23|my smart home to detect and sound an alarm when my pet is on the counters
+733|SERVICE|autoclean|40|49|my bathroom mirror, sink, and shower to autoclean each day
+734|SERVICE|alert|17|22|my smart home to alert me whenever the stove is being used when I am not home
+735|SERVICE|alert|17|22|my smart home to alert me at specified times to exercise
+737|SERVICE|store|17|22|my smart home to store all of my recipes and be able to recite them to me step by step as I cook
+738|SERVICE|alert|22|27|Phone notification to alert me when my washer is done washing my clothes
+739|SERVICE|alert|22|27|Phone notification to alert me when the garage door is opened
+740|SERVICE|alert|22|27|Phone notification to alert me when food in the fridge is about to spoil/go bad
+741|SERVICE|alert|22|27|Phone notification to alert me of the weather conditions and suggest how to dress properly
+742|SERVICE|alert|22|27|Phone notification to alert me if my child gets too close to the pool outside
+743|SERVICE|alert|22|27|Phone notification to alert me when mail or packages are delivered to my house
+744|SERVICE|alert|22|27|Phone notification to alert me if my dog wanders away from home
+745|SERVICE|alert|22|27|Phone notification to alert me when someone knocks on my front door
+746|SERVICE|alert|22|27|Phone notification to alert me if my child wanders too close to the street
+747|SERVICE|gather|16|22|a way to easily gather my children 
+749|SERVICE|sound|12|17|an alarm to sound if the gate to the pool is opened
+750|SERVICE|jeeps|20|25|a smart fridge that jeeps track of essential food items
+751|SERVICE|alert|11|16|a sound to alert me if I forget to set the alarm
+752|SERVICE|turn off|14|22|all lights to turn off or dim when rooms are unoccupied
+753|SERVICE|controls|14|22|a device that controls the all lights in any room of the house
+754|SERVICE|shut down|36|45|all electronics (computers, etc) to shut down or sleep after a certain hour.
+755|SERVICE|shut off|34|42|All power strips to automatically shut off when plugged in devices are fully charged
+756|SERVICE|adjusts|14|21|a device that adjusts the tomperature in the house according to the weather
+757|SERVICE|led|0|3|led lighting to guide me up the walkway when I come home at night
+758|SERVICE|turn on and off|35|50|the humidifier in my son's room to turn on and off at certain time overnight
+759|SERVICE|opens|34|39|smoke detector that automatically opens doors
+760|SERVICE|tell|14|18|a device that tell me when mail or a package has arrived
+761|SERVICE|reports|23|30|A weather station that reports the weather right from my own yard
+762|SERVICE|operate|26|33|A smart car that will not operate when my teenage kids try to sneek the car out
+763|SERVICE|opens|24|29|a door that unlocks and opens with the command of a smart phone
+767|SERVICE|detect|20|26|a smart system that detect drain clogs in my septic
+769|SERVICE|notifies|14|22|a system that notifies me when I'm using too much energy
+770|SERVICE|warn|26|30|An alarm system that will warn me when my toilet is about to get clogged up
+771|SERVICE|start|17|22|my smart home to start slowly rising the blinds and playing soft relaxing sounds about 20 minutes before i have to wake up
+772|SERVICE|shut off|9|17|My tv to shut off at a certain time when my kids watch
+773|SERVICE|shut|18|22|My indoor wifi to shut at certain times of the day
+776|SERVICE|tells|23|28|a security system that tells and tracks who is entering my home
+777|SERVICE|track|12|17|the home to track where i am and if i leave a room i want the music to follow me through the house
+779|SERVICE|grant|15|20|the ability to grant a single use code to open the door even if i am not at home at the time
+780|SERVICE|controlled|13|23|separate TVs controlled for individuals in the house
+782|SERVICE|operate|32|39|A gaming console that will only operate under parents commands
+783|SERVICE|tell|19|23|A vacuum that will tell me when the floors are 100 percent clean
+784|SERVICE|tells|14|19|a system that tells me how many hours I'm working and per hour rate
+785|SERVICE|detect|21|27|household cameras to detect when I leave the house, and activate recording
+786|SERVICE|detect|10|16|the TV to detect weather alerts and automatically turn on the TV and turn to the weather channel
+787|SERVICE|activate|34|42|the alarm system to automatically activate after all registered people in the home have left
+788|SERVICE|detect|19|25|medical sensors to detect when a life threatening medical even occurs (heart attack) and notify emergency services
+789|SERVICE|activate|29|37|heat and air conditioning to activate and de-activate as I move from one room to another
+790|SERVICE|signals|21|28|a smart shower which signals when i pre programmed temperature is reached
+791|SERVICE|detect|11|17|sensors to detect a break-in and automatically close and lock the doors of the room containing intruder
+796|SERVICE|control|17|24|a unit that will control the lights, sounds, temperature and entertainment devices in the house
+797|SERVICE|recieve|3|10|to recieve a text message at any point during the day when my electricity and water usage exceeds an acceptable level
+799|SERVICE|turn on|19|26|my water heater to turn on at 3 am monday through friday
+800|SERVICE|unlock|14|20|the option to unlock the front door from an app or remote when visitor has been verified from an auditory system.
+801|SERVICE|check|45|50|my kids monitoring system, during nights, to check weather they have a sound sleep
+802|SERVICE|track|28|33|something in the kitchen to track my weight and calorie intake
+803|SERVICE|learn|18|23|an oven that will learn when I am home from work and turn itself on to warm my dinner
+804|SERVICE|turn|15|19|Alarm clock to turn the light lights on, slowly increasing the amount of light
+805|SERVICE|detect|22|28|the speaker system to detect different moods to change music accordingly (if playing).
+806|SERVICE|notify|19|25|My refrigerator to notify me on my smartphone that its stock needs to replenished.
+807|SERVICE|kitchen|0|7|kitchen safety system to get automatically on after 10:00 PM
+808|SERVICE|open|17|21|my smart home to open the back door whenever it detects my dog's presence for longer than 3 minutes
+810|SERVICE|recieve|3|10|to recieve text notification of new movies that match my viewing criteria are added to an online library
+811|SERVICE|allow|17|22|a door that will allow my pets to go out or in by recognition.
+812|SERVICE|alert|17|22|my smart home to alert me whenever a presence is detected on the downstairs level when I've recorded that I am upstairs for the night
+813|SERVICE|tell|12|16|a sensor to tell me when and what my lawn needs to be healthy
+814|SERVICE|allow|30|35|a SMART Home option that will allow my pet to walk to the door, bark, and a dog door raises to let them out
+815|SERVICE|sense|17|22|a crib that will sense any disturbances in my baby's sleep, including crying or needing a diaper change
+816|SERVICE|adjust|19|25|a shower that will adjust the water temperature automatically to preferred temperatures.
+818|SERVICE|close|17|22|my smart home to close off certain regions of the home while watching children by automatically moving sliding doors
+819|SERVICE|manage|13|19|smart box to manage internet cabling
+820|SERVICE|sense|17|22|my smart home to sense when the soil in the front and back yards are are dry,
+821|SERVICE|scan|20|24|a feature that will scan my toothbrush and remind me when to replace it
+822|SERVICE|understand|0|10|understand the calories of food taken by my kids
+823|SERVICE|activate|14|22|the option to activate the opening and closing of window curtains by using a remote or smart phone application
+824|SERVICE|recieve|3|10|to recieve text alerts if i leave my garage door open after leaving
+825|SERVICE|notify|27|33|My medicine pill holder to notify me about the pill that are going to expire
+827|SERVICE|learn|17|22|my smart home to learn when I am not around and to turn off unnecessary items like TVs, coffeemaker, radio, etc.
+828|SERVICE|notify|27|33|My medicine pill holder to notify me that new pills need to be purchased.
+829|SERVICE|protect|18|25|a device that can protect my airspace from drones
+830|SERVICE|turn on|17|24|my smart home to turn on fans automatically when stagnant air is detected 
+831|SERVICE|sound|46|51|a sensor in my children's play area that will sound an alarm if someone is hurt
+832|SERVICE|turn off|29|37|my child TV to automatically turn off a set time, 
+833|SERVICE|asks|27|31|a speaker at the door that asks a person to name himself before he rings the door bell,
+834|SERVICE|alert|17|22|my smart home to alert me when a single electronic device or source is requiring a significant amount of electricity 
+835|SERVICE|sound|19|24|a sensor that will sound an alarm if my dog escapes through the fenced backyard or something happens to hurt my pet
+836|SERVICE|turns one|11|20|fire place turns one when I get home from work
+837|SERVICE|warm|34|38|a pet bed that will automatically warm or cool depending on the temperature of the pet
+839|SERVICE|monitor|22|29|My fish tank needs to monitor and notify that  ample fish food is present in the tank
+841|SERVICE|detects|32|39|smart sensor that automatically detects my pet's location in the house,
+842|SERVICE|monitor|22|29|My fish tank needs to monitor and notify that  if there are any dead fish
+843|SERVICE|monitor|18|25|a device that can monitor my well being and health
+845|SERVICE|identify|13|21|my fridge to identify my children by age and height and have a pre-prepared snack ready in a door for hem
+846|SERVICE|show|14|18|a device that show me deficiencies my home may have in it's efficiency
+847|SERVICE|changes|22|29|a smart computer that changes its setting according to the person who uses it
+849|SERVICE|allot|17|22|my smart home to allot food to my pets in relationship to their tracked expended energy as determined by their collars and movement
+851|SERVICE|recieve|3|10|to recieve text notification if water continually runs after a certain number of minutes
+853|SERVICE|analyze|15|22|the ability to analyze energy consumption by CPU or smart phone
+855|SERVICE|recieve|0|7|recieve calendar/updates updates speak through my surround sound system
+856|SERVICE|adjusts|26|33|geyser that automatically adjusts to optimal temperature settings,
+860|SERVICE|notify|18|24|My WiFi router to notify me on my smartphone if someone tried to unauthorizedly access it.
+861|SERVICE|open|23|27|automatic windows that open up by themselves each morning,
+862|SERVICE|notify|11|17|Feature to notify health issue
+863|SERVICE|sweeps|42|48|a device which automatically monitors and sweeps the floor.
+864|SERVICE|remind|20|26|the refrigerator to remind me went we're low on a certain item(s)
+865|SERVICE|records|24|31|automatic recorder that records all my conversations and automatically picks up the thing-to-do
+867|SERVICE|watch|3|8|to watch different channels at same time with time change
+868|SERVICE|recieve|3|10|to recieve voice commands set to tell me how many calories my dinner can consist of
+869|SERVICE|check|3|8|to check my food to be healthy and things which we buy is organic
+872|SERVICE|remind|3|9|to remind me when the birds needs to be feed
+873|SERVICE|lock|13|17|an auto door lock feature to lock my front door if i forget to lock it when leaving home
+874|SERVICE|masks|31|36|a garbage can that permanently masks the smell of garbage by deodorizing
+875|SERVICE|attend|3|9|to attend my phone which i kept inside home where i was in other place
+876|SERVICE|alert|17|22|my smart home to alert me when I get mail inside the mailbox, and how many pieces there are
+877|SERVICE|lock|3|7|to lock and open my home when i was not there
+878|SERVICE|monitor|10|17|system to monitor my parents health
+879|SERVICE|opens|14|19|a laptop that opens most used programs every time it is turned on.
+880|SERVICE|understand|22|32|Need to technology to understand the change in behaviour of my aging parents
+881|SERVICE|understand|3|13|to understand the requirement of my kids, since being at office most of the time, I have less time to spend with them
+882|SERVICE|understand|0|10|understand the health of my aging parents, like BP, sugar
+883|SERVICE|alert|19|24|security system to alert me of unknown people getting into my house at my absence
+884|SERVICE|know|3|7|to know if there have been unusual movement patterns in the house that might indicate a trauma
+885|SERVICE|set up|12|18|to remotely set up playlist of movies to watch on TV when we get home
+886|SERVICE|understand|0|10|understand the entertainment activity of my kids
+887|SERVICE|understand|0|10|understand the mood swings of my kids
+889|SERVICE|notify|17|23|My Smart Home to notify when I need to buy favorite foods 
+890|SERVICE|report|33|39|house equipment to automatically report malfunctions
+891|SERVICE|adjust|23|29|lights in the house to adjust to specific presets based on the time of day, outside illumination and activities taking place inside the house
+892|SERVICE|turn on/off|17|28|My Smart Home to turn on/offlights at selected time
+893|SERVICE|show|23|27|my medicine cabinet to show me which medicines and drugs should not be taken together or may have expired
+896|SERVICE|vacuum|33|39|miniature robots to periodically vacuum the house
+897|SERVICE|run|23|26|my cleaning devices to run when electricity prices are at their lowest
+899|SERVICE|notify|15|21|home that will notify me by text message when my dog is barking
+900|SERVICE|call|18|22|the smart home to call the police if there has been trespassing while the owners are not at home
+901|SERVICE|interect|18|26|feature that will interect with my dog for an hour each day
+902|SERVICE|turn off|10|18|home that turn off a power outlet when it senses that a plugged in device is fully charged
+903|SERVICE|cast|20|24|home that will auto cast music to different rooms when I go from one room to another
+905|SERVICE|notify|15|21|home that will notify me if the stove or oven is on with no one in the home
+906|SERVICE|bark|18|22|my Smart House to bark loudly at randon times when I'm away
+907|SERVICE|lock|35|39|a mail box that will automatically lock itself after the mail has been deliver
+908|SERVICE|update|17|23|My Smart Home to update me when asked about my energy consumption
+910|SERVICE|know|3|7|to know when there's water running
+911|SERVICE|alert|19|24|an alarm system to alert everyone whenever it's time to eat
+912|SERVICE|turn on and off|3|18|to turn on and off electronics in the house
+913|SERVICE|sound|19|24|an alarm that will sound my room really loud
+914|SERVICE|send|9|13|my tv to send a notification to my phone to remind me when my favorite show are returning for a new season
+915|SERVICE|know|3|7|to know when my fridge is running low on everyday essentials by sending me a message to my phone
+916|SERVICE|know|3|7|to know how long my air conditioners been running each day by sending me a message to my phone
+917|SERVICE|notify|29|35|my kitchen stove and oven to notify me via text when i accidentally leave it on when im out the house or asleep
+918|SERVICE|notify|19|25|my music device to notify me when my favorite artist release new music
+919|SERVICE|notify|17|23|my smart home to notify me when my smart phone is full charged
+920|SERVICE|notify|20|26|my laundry dryer to notify me when my clothes are dried even when it is still running
+921|SERVICE|know|3|7|to know how long my shower been running each day while my family and myself use it
+922|SERVICE|notify|9|15|my tv to notify me how long my children spend each day watching their favorite shows
+924|SERVICE|show|3|7|to show the food calories, vitamins etc in our family food taken
+926|SERVICE|runs|13|17|a bike which runs in herbs oil (not petrol/diesel)
+927|SERVICE|clean|17|22|my dirty clothes clean without water and detergent powder
+929|SERVICE|shows|14|19|a mirror that shows weather reports, daily to-do listings, reminders etc using Glass technology
+930|SERVICE|detect|40|46|an automatic air conditioner that would detect when I am nearly home and automatically turn on
+931|SERVICE|send|17|21|my appliances to send an alert when it needs cleaning or repair
+932|SERVICE|tell|9|13|my tv to tell me when new movie releases in my geners are released
+933|SERVICE|turn|32|36|all the lights in every room to turn off at 11pm
+934|SERVICE|open|13|17|windows that open with smartphone
+935|SERVICE|tell|24|28|sensors around house to tell me when someone gets within 10 ft of house
+936|SERVICE|vaccums|29|36|something that automatically vaccums
+937|SERVICE|lock|42|46|the front and back doors to automatically lock after 6pm
+938|SERVICE|alert|11|16|my safe to alert my phone when someone tries to open it
+939|SERVICE|cleans|15|21|something that cleans, dust.
+940|SERVICE|tell|12|16|my phone to tell me the temp in my house and allow me to adjust it
+941|SERVICE|monitors|14|22|a device that monitors the last time someone did a chore
+942|SERVICE|cuts|15|19|something that cuts grass
+943|SERVICE|remind|23|29|my medicine cabinet to remind me to give children medicine
+944|SERVICE|tells|14|19|a device that tells me what devices are taking up the most energy
+945|SERVICE|turn on|41|48|all my electronics in the living room to turn on when i open the front door
+946|SERVICE|prevents|15|23|something that prevents sun from coming in windows.
+947|SERVICE|locks|21|26|a medice cabnit that locks and lets me know when someone tries to open it
+948|SERVICE|turn off|12|20|my house to turn off devices that haven't been used in a certain amount of time
+949|SERVICE|turns|15|20|something that turns my tv on at a certain time of the day
+950|SERVICE|turn on|13|20|cameras that turn on when they sense movement
+951|SERVICE|turning on|23|33|automatic shower heads turning on at a certain time.
+952|SERVICE|send|3|7|to send grocery list from fridge to phone
+953|SERVICE|control|3|10|to control tv consumption from my phone
+954|SERVICE|adjust|11|17|my home to adjust the lighting on my computer and television screens according to the amount of light in the room
+955|SERVICE|shut off|3|11|to shut off all phones in the house at certain times
+956|SERVICE|tell|12|16|my phone to tell me when someothing is wrong with the electrical system in house
+957|SERVICE|pop up|13|19|reminders to pop up after a certain amount of time
+958|SERVICE|alert|12|17|my phone to alert me if the dog leaves the premise using a sensor on the dog's collar
+959|SERVICE|adjust|11|17|my home to adjust the air flow and amount of humidity
+960|SERVICE|unlock|24|30|the ability to remotely unlock the house
+961|SERVICE|turn off|10|18|an app to turn off the stove in case i'm not home and i forgot to turn it off
+962|SERVICE|tells|14|19|a device that tells me when my pet gets into a room or something they're not meant to be in (i.e. the trash)
+963|SERVICE|tell|11|15|my home to tell me when there is spoiled food in the refigerator
+964|SERVICE|shows|13|18|an app which shows video of who rang my doorbell when i wasn't at home
+965|SERVICE|tells|12|17|an app that tells me if my child gets near a dangerous appliance like a stove
+966|SERVICE|record|11|17|my home to record television shows I missed while I was away
+967|SERVICE|set|17|20|my smart home to set alarms to remind me when to take medicine
+968|SERVICE|alert|18|23|my smart floor to alert me when ever my child keep non eatable item in her mouth
+969|SERVICE|contact|17|24|my smart home to contact the police if anyone has broken into my home
+970|SERVICE|recognize|25|34|my smart music system to recognize my mood when I enter home and play a song to that 
+971|SERVICE|turn on|11|18|my home to turn on my coffee pot and make me coffee 10 minutes before I wake up
+972|SERVICE|turn off|11|19|my home to turn off the television, mobile phones and computer until my children are done studying
+974|SERVICE|send|19|23|my smart mobile to send me an SMS when my child is not feeling well, when I am in office
+975|SERVICE|alert|17|22|my smart home to alert me when some enters the building i live in
+976|SERVICE|turn off|12|20|the wifi to turn off at bedtime
+977|SERVICE|alert|17|22|my smart home to alert me when my dog enters a room
+978|SERVICE|warm|12|16|the beds to warm 10 mins before I enter
+979|SERVICE|turn off|17|25|my smart home to turn off appliances (tv/computer) when a room is empty
+980|SERVICE|turn on|21|28|the heated floors to turn on 30 mins before my alarm
+981|SERVICE|alert|17|22|my smart home to alert me when a burner is on in the kitchen when it is unoccupied
+982|SERVICE|clean|10|15|my vacuum cleaner to clean to floors at a particular time daily or as I Program 
+984|SERVICE|start|22|27|the coffee machine to start 5 minutes before my alarm
+986|SERVICE|alert|17|22|my smart home to alert me when someone is in the medicine cabinet
+987|SERVICE|lock|25|29|the windows and doors to lock automatically after 10 pm
+988|SERVICE|alert|17|22|my smart home to alert me when the oven is on, but there isn't anything in it
+989|SERVICE|send|14|18|smart home to send a picture to my phone of anyone standing on my doorstep
+990|SERVICE|turn off|23|31|automatic lights which turn off when I leave a room or only turn on when ambient light is low
+991|SERVICE|control|3|10|to control fireplace from my phone
+994|SERVICE|lock|18|22|the front door to lock automatically behind me
+996|SERVICE|turn on|19|26|a system that will turn on televisions to the current channel when I enter a room
+998|SERVICE|switch on|14|23|my chimney to switch on whenever I start my stove
+999|SERVICE|adjusts|18|25|a thermostat what adjusts itself based on the outdoor temperature
+1000|SERVICE|turn on|39|46|a connected washing machine that could turn on when I leave work
+1003|SERVICE|displays|17|25|a phone app that displays current energy use and tracks long term stats
+1005|SERVICE|capture|23|30|my smart television to capture my kids naughty things
+1006|SERVICE|tell|18|22|Windows that will tell me what temperature it is outside along with the weather conditions. 
+1007|SERVICE|shed|34|38|Car parking alert indication from shed  that was touches by anyone must indicate to bedroom in purpose of saftey.
+1008|SERVICE|warn|22|26|a back door that will warn me when someone approaches within 15 feet of my door
+1009|SERVICE|act|11|14|my wall to act as a in built wifi router 
+1010|SERVICE|alert|18|23|Windows that will alert me and call the police when someone try's to open them. 
+1013|SERVICE|light up|18|26|windows that will light up when it's dreary outside to brighten my mood
+1015|SERVICE|lock|25|29|doors that automatically lock within 1 minute after they have been shut
+1017|SERVICE|list|18|22|a panel that will list how much battery power all of my smart home devices currently have available
+1018|SERVICE|remind|12|18|the home to remind me when cleaning supplies are low
+1019|SERVICE|leave/enter|30|41|notification of when children leave/enter home through motion sensors
+1021|SERVICE|monitor|19|26|features to safely monitor my baby's vital signs
+1022|SERVICE|learn|23|28|the air conditioner to learn my behavior
+1023|SERVICE|shut off|12|20|lights that shut off when i leave the room
+1024|SERVICE|washes|18|24|a dishwasher that washes dishes using less water
+1025|SERVICE|shuts off|26|35|a video game console that shuts off at bed time
+1026|SERVICE|closes and locks|18|34|a doggy door that closes and locks when the dog is inside
+1027|SERVICE|upload|19|25|A kitchen that can upload recipe requirements from my computer to my appliance
+1030|SERVICE|lists|25|30|A screen in my home that lists all of my appliances and how much energy they consume
+1032|SERVICE|turns|10|15|a TV that turns itself off after I leave the room
+1034|SERVICE|flushes|14|21|a toilet that flushes itself a second time if there is extra poop
+1035|SERVICE|turn|16|20|appliances that turn themselves off if the house detects that all occupants have left.
+1037|SERVICE|adjust|18|24|lights that I can adjust from my chair
+1038|SERVICE|counts|13|19|a floor that counts how many steps I take a day
+1041|SERVICE|watch|17|22|Home monitors to watch my movements
+1042|SERVICE|turn on|15|22|my computer to turn on automatically at 7am
+1043|SERVICE|observe|14|21|Home monitors observe my activity and know when I am about to leave and have a Uber ready
+1044|SERVICE|track|17|22|my smart home to track if my pet is inside or outside
+1045|SERVICE|tell|18|22|my referigator to tell me when I need to buy milk, butter and eggs
+1046|SERVICE|turn on|17|24|my smart home to turn on music when the shower is running
+1047|SERVICE|lock|13|17|the doors to lock when I'm gone from the house for 10 minutes
+1048|SERVICE|turn off|18|26|my smart house to turn off my fans if I'm not in the room for 10 minutes
+1049|SERVICE|temperature|43|54|Hot water heater automatical heat water to temperature I like for showering
+1050|SERVICE|turn off|18|26|my smart house to turn off the central air when I'm asleep
+1052|SERVICE|alert|17|22|my smart home to alert me no discretely when someone pulls in
+1053|SERVICE|alert|11|16|appliances alert me they are on before I leave
+1055|SERVICE|sense|23|28|a smart home that will sense when nobody is home and automatically adjust the temperature
+1057|SERVICE|calculates|19|29|a smart house that calculates my current energy bill so far this month
+1058|SERVICE|integrates|16|26|smart home that integrates with every tv in each room to coordinate viewing
+1059|SERVICE|opens and closes|32|48|a smart home that automatically opens and closes curtains and blinds
+1060|SERVICE|alert|16|21|a smart home to alert me when the mail or packages are delivered
+1061|SERVICE|alert|28|33|my smart home to notice and alert me any time a pet goes potty on the floor
+1062|SERVICE|notify|17|23|my smart home to notify me when it has been more than 2 days since the litter has been changed
+1063|SERVICE|notify|17|23|my smart home to notify me if there is too much dust in the air
+1064|SERVICE|notify|17|23|my smart home to notify me any time the liquor cabinet has been opened
+1065|SERVICE|notify|17|23|my smart home to notify me any time the gun cabinet is even touched, much less opened.
+1066|SERVICE|notify|17|23|my smart home to notify me wherever I am whenever someone gets in the pool
+1067|SERVICE|notify|18|24|my smart phone to notify me 10 minutes before the Braves games begin and if I don't respond, automatically DVR the game
+1068|SERVICE|sync|17|21|my smart home to sync with package deliveries 
+1069|SERVICE|wired|16|21|hidden speakers wired throughout the house
+1070|SERVICE|tell|20|24|a service that will tell me if someone is outside of my house
+1071|SERVICE|start|10|15|My car to start warming up on my schedule
+1072|SERVICE|change|12|18|my walls to change different colors easily
+1073|SERVICE|tell|19|23|a sensor that will tell me if the house smells bad
+1074|SERVICE|turn off|16|24|wall outlets to turn off power to idle applicances
+1075|SERVICE|heat up|15|22|my mattress to heat up at the same time my thermostat cools down
+1076|SERVICE|cool|18|22|a chair that will cool me
+1077|SERVICE|signal|12|18|my phone to signal when my team scores
+1079|SERVICE|adjust|25|31|ability to automatically adjust solar panels throughout the day to get best energy production
+1080|SERVICE|dim|13|16|windows that dim automatically if a stranger is coming to the door
+1082|SERVICE|tell|9|13|alarm to tell me when air con filters need changing
+1083|SERVICE|know|3|7|to know if there is wine in the fridge
+1084|SERVICE|sense|17|22|my smart home to sense when to and water my houseplants when they need it
+1085|SERVICE|adjusts|43|50|a thermostat that monitors my sleeping and adjusts the temperature according to my sleep cycle
+1086|SERVICE|press|12|17|a button to press that will deliver groceries/pizza
+1088|SERVICE|lock|11|15|ability to lock all doors and windows instantly (phone app or hot button)
+1089|SERVICE|vacuum|31|37|my smart home to automatically vacuum the floors daily while I am at work
+1090|SERVICE|adjust|16|22|lightbulbs that adjust to my activity such as reading a book or watching a movie
+1091|SERVICE|clean|13|18|gutters that clean themselves
+1092|SERVICE|tells|20|25|a plant sensor that tells me when certain plants need watering
+1093|SERVICE|know|32|36|a special chip on pet collar to know if pet is inside house or not
+1095|SERVICE|sense|17|22|my smart home to sense my approach and start cooking my dinner
+1096|SERVICE|turn on|13|20|my shower to turn on when my alarm goes off.
+1097|SERVICE|turn on|12|19|my radio to turn on when I go into the backyard
+1098|SERVICE|alert|17|22|my smart home to alert me if my hot water heater leaks
+1099|SERVICE|record|31|37|security cams to automatically record when strage movement happens at night
+1100|SERVICE|start|18|23|the dishwasher to start when it's most efficient to use electricity
+1101|SERVICE|warn|17|21|my smart home to warn me about carbon monoxide levels in my living room, when the fireplace is used
+1103|SERVICE|clean and sanitize|30|48|my smarthome to automatically clean and sanitize my shower and bath at the end of the day
+1105|SERVICE|warn|17|21|my smart home to warn me when the garage door is left open
+1106|SERVICE|know|3|7|to know when my doors are locked remotely
+1110|SERVICE|sound|12|17|my dryer to sound when the clothes are finished drying
+1111|SERVICE|detect|19|25|an alarm that will detect leaks in the house
+1112|SERVICE|know|3|7|to know the power consumption of provided appliances
+1113|SERVICE|alert|17|22|my smart home to alert me if water is left on outside
+1114|SERVICE|know|3|7|to know when there are dogs loose in the apartment complex
+1116|SERVICE|tells|14|19|an alarm that tells me if a baby is awake
+1117|SERVICE|responds|13|21|A stove that responds to voice commands
+1118|SERVICE|alert|17|22|my smart home to alert me if a window is left open
+1119|SERVICE|tell|13|17|my fridge to tell me when I am running low on food
+1120|SERVICE|sense|25|30|my smart refrigerator to sense variations in temperature and alert me if maintenance will soon be required
+1122|SERVICE|know|3|7|to know the amount of time my vegetables have been in the fridge
+1125|SERVICE|brew|10|14|my tea to brew and be ready for my wakeup
+1126|SERVICE|alert|17|22|my smart home to alert me if movement is detected outside
+1127|SERVICE|turns off|32|41|a television that automatically turns off after an hour
+1129|SERVICE|know|3|7|to know the decibel level of my amp throughout my apartment
+1130|SERVICE|alert|17|22|my smart home to alert me when the mail is delivered
+1131|SERVICE|clean, dry, and fold|38|58|my washer and dryer to automatically clean, dry , and fold the laundry
+1132|SERVICE|alert|17|22|my smart home to alert me when packages are left on my door step
+1134|SERVICE|alert|17|22|my smart home to alert me if a freezer gets too warm
+1135|SERVICE|turns on|11|19|music that turns on when I enter the room
+1136|SERVICE|alert|17|22|my smart home to alert me if an outside light is left on
+1137|SERVICE|monitor|17|24|my smart home to monitor the moisture levels in the soil throughout the yard and water only the plants that need it using water from a rain barreil system
+1138|SERVICE|remembers|10|19|a tv that remembers what each family member likes
+1139|SERVICE|track|9|14|a way to track each family member's energy use
+1140|SERVICE|know|3|7|to know when my child arrives home from school
+1141|SERVICE|shut off|20|28|the refrigerator to shut off when the door is opened 
+1142|SERVICE|cut off|27|34|Sockets that automatically cut off power supply if less than a certain voltage is being drawn, so that when pets chew wire, they're less likely to be electrocuted
+1144|SERVICE|detect|13|19|something to detect drafts near windows and doors
+1146|SERVICE|beeps|18|23|Shower floor that beeps at a certain temperature
+1147|SERVICE|disable|26|33|A stove that can remotely disable my smoke alarm
+1148|SERVICE|defaults|34|42|A water boiler that automatically defaults to Vacation Mode (and lowers the heat setting) if water has not been used for 3 days
+1149|SERVICE|alert|11|16|my home to alert me when my pet leaves something behind on the floor
+1152|SERVICE|knows|28|33|a fridge that automatically knows what I put in it by scanning the barcodes of food and tells me what I have at the push of a button
+1153|SERVICE|know|3|7|to know my internet connection status
+1154|SERVICE|scans|23|28|"smart garbage can that scans barcodes of what I throw out, and if it is a regularly used product (paper towels, eggs, bread bag,) puts them on a the ""to buy""/grocery list so I wont forget"
+1155|SERVICE|know|3|7|to know if my EV is charged fully or how much time is left for full charge
+1156|SERVICE|self sprays|28|39|A shower that automatically self sprays with an anti mildew solution after I exit the shower
+1157|SERVICE|know|3|7|to know how much power is currently being consumed by appliance
+1158|SERVICE|heats up|30|38|a bathroom that automatically heats up when the humidity rises and after showers to dry the air and bathroom contents
+1159|SERVICE|tell|19|23|My refrigerator to tell me when I am low on foods I use often, 
+1160|SERVICE|control|3|10|to control my solar panel with my smartphone
+1161|SERVICE|turn on|20|27|my work computer to turn on at a set time each day
+1162|SERVICE|control|3|10|to control all lights with my smartphone
+1163|SERVICE|allow|9|14|my tv to allow me to order food for delivery with my voice
+1164|SERVICE|pop up|21|27|smoke detectors that pop up with a map to fire extinguishers
+1165|SERVICE|lock|25|29|doors that automatically lock after a certain tim
+1166|SERVICE|chase|37|42|A robot that I can program that will chase out animals when they are in my yard
+1167|SERVICE|monitor|3|10|to monitor my smoke detectors via my smartphone
+1169|SERVICE|organize, fill and arrange|18|44|Storage bins that organize, fill and arrange themselves
+1170|SERVICE|turn on|11|18|My home to turn on the lights when I come home and turn off the ones I'm not using when I leave a room,
+1171|SERVICE|monitor|11|18|My home to monitor my energy use and turn the thermostat up or down according to my preferences
+1172|SERVICE|shake|11|16|my home to shake the beds of my two older kids to wake them up in the morning,
+1173|SERVICE|beep|14|18|the fridge to beep if it's left open
+1174|SERVICE|tell|11|15|my oven to tell me when something I am baking is done,
+1175|SERVICE|turn on|10|17|the tv to turn on when I get home
+1178|SERVICE|send|21|25|smoke detectors that send a message to my phone if they go off when im not home
+1180|SERVICE|remind|12|18|an alarm to remind me remind me to eat at regular times
+1182|SERVICE|catalog|13|20|my fridge to catalog what I put in it and create a menu plan
+1183|SERVICE|alerts|15|21|a feature that alerts me the sites my child visits
+1185|SERVICE|work|23|27|my dvr, tv, and all networks (verizon, internet, and Netflix) to work seamlessly
+1186|SERVICE|know|12|16|my house to know when people come and go
+1188|SERVICE|adjust|26|32|my curtains and lights to adjust to morning, afternoon and evening
+1189|SERVICE|notify|16|22|for my house to notify me if my dog is barking or being disruptive
+1191|SERVICE|clean|24|29|my toilets and sinks to clean themselves on a schedule
+1192|SERVICE|turns on|18|26|A thermostat that turns on as I wake up
+1193|SERVICE|detects|24|31|An air conditioner that detects when my dog is in the room
+1194|SERVICE|lock|11|15|Doors that lock after half an hour
+1195|SERVICE|lock|13|17|Windows that lock
+1196|SERVICE|shuts|13|18|An oven that shuts off when empty
+1197|SERVICE|wired|9|14|Speakers wired into the walls that I can control my voice
+1198|SERVICE|turn on|12|19|lights that turn on when someone approaches
+1199|SERVICE|senses|18|24|A doggy door that senses my dogs collar
+1200|SERVICE|turn on|12|19|Lights that turn on as I unlock my door
+1202|SERVICE|turn off|10|18|the TV to turn off when my laptop is on and vice versa
+1203|SERVICE|bases|24|29|a smart thermostat that bases the temperature on the temperature near me
+1204|SERVICE|begin|14|19|The shower to begin on a voice command
+1205|SERVICE|change|10|16|lights to change color
+1206|SERVICE|sense|12|17|My doors to sense automatically when my smart phone is within a certain distance from the front door and unlock themselves.
+1207|SERVICE|heat|14|18|the floors to heat up on cold mornings
+1208|SERVICE|adjust|36|42|My home thermostat to automatically adjust to my body temperature 
+1209|SERVICE|start|17|22|my smart home to start my coffee when my alarm goes off.
+1210|SERVICE|turn off|9|17|wi-fi to turn off at a certain hour
+1211|SERVICE|notify|19|25|My refrigerator to notify me when an object has been inside more than four days 
+1212|SERVICE|tracks|14|20|kitchen which tracks supplies by weight
+1213|SERVICE|tell|17|21|my smart home to tell me if the garage door is open or closed
+1214|SERVICE|turn on|18|25|appliances to not turn on when I am not home
+1215|SERVICE|notify|13|19|My shower to notify me when there is no hot water left in the hot water heater or approximately how many minutes of hot shower time I have. 
+1216|SERVICE|tell|23|27|a refigerator that can tell me when my store bought food will expire
+1217|SERVICE|respond|17|24|my smart home to respond to voice commands to open or close the garage door
+1218|SERVICE|assess|17|23|the smarthome to assess the temperature outside and adjust the inside temperature appropriately
+1219|SERVICE|text|17|21|my smart home to text me when my kids come home from school
+1220|SERVICE|alert|15|20|a smarthome to alert me when a young child upstairs is too close to the stairs
+1221|SERVICE|shut off|31|39|my smart home to automatically shut off all video games after 45 minutes of play
+1222|SERVICE|alerts|23|29|smarthome feature that alerts me when any medium or large animals are near my house outside
+1223|SERVICE|produce|17|24|Kitchen that can produce recipes based on the food I have bought from the store
+1224|SERVICE|turns on|23|31|smarthome feature that turns on preselected music/news/audiobook/etc. when I turn the shower on
+1225|SERVICE|alert|23|28|My washer and dryer to alert me on my smart phone or through my smart home when a laundry cycle is done 
+1226|SERVICE|sense|20|25|a bath tub that can sense the present temperature of the water in it
+1227|SERVICE|attached|15|23|smart features attached to appliances such as the oven, microwave, gun safes
+1228|SERVICE|sends|28|33|feature where the smarthome sends an alert to my smartphone when the laundry is almost done
+1229|SERVICE|closes|23|29|smarthome feature that closes the blinds in my bedroom when it gets lighter outside, then opens them back up at a certain wake-up time
+1230|SERVICE|sense|28|33|smarthome feature that will sense when a person is in the room and quickly heat/cool it
+1231|SERVICE|alerts|23|29|smarthome feature that alerts me when certain cabinets are being opened
+1232|SERVICE|tracks|15|21|a system which tracks all the movies currently available across all of my devices
+1233|SERVICE|wakes/turns on|23|37|smarthome feature that wakes/turns on my computer at a certain time and pulls up websites I specify
+1234|SERVICE|track|11|16|my home to track my medication usage
+1235|SERVICE|sense|19|24|a furnace that can sense the temperature in multiple rooms 
+1236|SERVICE|sense and shut off|15|33|the ability to sense and shut off multiple elements based on heat usage
+1237|SERVICE|work|31|35|"My smart home to automatically work to put out fires if one should arise. When the smoke detector goes off, I want there to be a sprinkler system or a high pressure hydraulic system in place that will work to at least fight the fire if not put it out completely. I imagine a future filled with ""fireproof houses"" In this future our smoke detectors are going to need to be a lot better to avoid them going off at happenstance times or malfunctioning. But I would much rather my stuff be soaked in an instance like this than for my house to be completely destroyed by a fire. "
+1239|SERVICE|tracks|7|13| which tracks the usage of electronics in the house
+1240|SERVICE|sensing|27|34|a circuit panel with smart sensing abilities 
+1241|SERVICE|warn|19|23|the smart house to warn me of local emergency warnings (and make preparations based on threat level).
+1242|SERVICE|block out|13|22|the house to block out sounds from outside my room when studying 
+1243|SERVICE|tell|23|27|a refigerator that can tell me when my store bought food will expire
+1244|SERVICE|notes|19|24|a sensor that will notes when people are within a certain perminitor of the house
+1245|SERVICE|notes|21|26|an air purifier that notes when doors or windows are open
+1246|SERVICE|tell|24|28|the ability to remotely tell what doors or windows are opened or closed in a house
+1247|SERVICE|tell|15|19|the ability to tell a door in a room to open or close, plus lock
+1248|SERVICE|turn off|9|17|my ac to turn off when I leave home
+1249|SERVICE|text|8|12|oven to text my phone
+1250|SERVICE|remind|13|19|my fridge to remind me to buy fruits and vegetables
+1251|SERVICE|lock|12|16|my doors to lock and unlock by voice recognition
+1252|SERVICE|continue|23|31|my tv to automatically continue a program from my iPad
+1253|SERVICE|drink|16|21|my remind me to drink water
+1254|SERVICE|warm|8|12|to only warm occupied rooms in the winter
+1256|SERVICE|know|3|7|to know when my pets have to go to the bathroom
+1257|SERVICE|know|3|7|to know when my dog food supply is low
+1258|SERVICE|know|3|7|to know when my home has an unauthorized entrant 
+1259|SERVICE|respond|27|34|all lights in the house to respond to voice commands
+1260|SERVICE|wake|3|7|to wake wife up by 8 am
+1261|SERVICE|remain|10|16|lights to remain on only when needed
+1262|SERVICE|brew|10|14|coffee to brew before it is needed
+1263|SERVICE|break|4|9|to  break even gambling
+1264|SERVICE|monitor|3|10|to monitor pollen levels within the home or around the exterior
+1265|SERVICE|listen|3|9|to listen to punk rock
+1266|SERVICE|listen|3|9|to listen to the best electronic music
+1268|SERVICE|activates|22|31|a heating system that activates in the kitchen or bathroom according to the time set on an alarm clock
+1270|SERVICE|lock and unlock|15|30|"the ability to lock and unlock the front door of my house with a simple touch if the ""key"" is on my person (as in some cars)"
+1271|SERVICE|turn on|25|32|my bedroom humidifier to turn on at 11pm every night
+1272|SERVICE|dispensed|5|14|food dispensed into my bowl 3 times a day
+1275|SERVICE|know|19|23|my refrigerator to know how long my food has been inside
+1276|SERVICE|integrate|27|36|my entertainment system to integrate with my Steam accounts
+1277|SERVICE|detect|16|22|stairs that can detect when someone has fallen down
+1278|SERVICE|hide|16|20|a home that can hide mail and cycle lights in the home
+1279|SERVICE|detecting|14|23|Day and night detecting blinds and curtains
+1282|SERVICE|notify|23|29|Doors and windows that notify me if they are opened while armed
+1284|SERVICE|send|14|18|my toaster to send me a text
+1285|SERVICE|pays|26|30|an arm that automatically pays the pizza driver
+1286|SERVICE|soak|13|17|carpets that soak up whatever spills on them and sends me a text message
+1287|SERVICE|pours|13|18|a robot that pours me my captain crunch
+1288|SERVICE|jerks|13|18|a robot that jerks me off
+1289|SERVICE|hold|13|17|a robot that hold my book or tablet in front of me and turns the pages
+1290|SERVICE|tell|19|23|a cabinet that can tell when i'm low on certain food and automatically order some more
+1292|SERVICE|tell|18|22|a heater that can tell what room i'm in and heat only that room
+1293|SERVICE|shoots|27|33|a robot that automatically shoots a net at any stranger that comes into my house
+1294|SERVICE|monitor|17|24|my smart home to monitor the hydration level of my soil outside
+1295|SERVICE|turn on/off|30|41|Lights in individual rooms to turn on/off based on the motion of people in the room
+1296|SERVICE|monitor|17|24|my smart home to monitor all outgoing water levels from the house
+1297|SERVICE|notify|17|23|my smart home to notify whenever a kitchen appliance is turned on.
+1298|SERVICE|turns on|22|30|A speaker system that turns on automatically when I'm in the shower, and turns off when I'm done using it.
+1300|SERVICE|monitor|17|24|my smart home to monitor the amount of steps I take in the house, as well as other family members.
+1301|SERVICE|monitor|17|24|My smart home to monitor the temperature in my garage during the winter.
+1302|SERVICE|alert|17|22|my smart home to alert me where my pet is inside the home if it decides to hide
+1303|SERVICE|pick up|31|38|my smart home to automatically pick up my cat's droppings
+1305|SERVICE|respond|17|24|"my smart home to respond to a certain decibel level of the word ""Help!"" to alert authorities"
+1307|SERVICE|monitor|25|32|my smart home feature to monitor my infants breathing at a very young age
+1309|SERVICE|turn on|24|31|the hot water heater to turn on 
+1311|SERVICE|assesses|13|21|an oven that assesses the meat for cooking.
+1312|SERVICE|sync|18|22|my alarm clock to sync with my coffee maker 
+1313|SERVICE|know|3|7|to know how much humidity is in the house.
+1314|SERVICE|adjust|18|24|my smart house to adjust the temperature of which room I am occupying and decrease the temperature of other rooms not in use
+1315|SERVICE|alert|18|23|My smart phone to alert me if I leave the coffee pot on.
+1316|SERVICE|alert|15|20|a motivator to alert me when I did not go to the gym.
+1317|SERVICE|knows|12|17|a home that knows when the floor is dirty, and sends appropriate robots to clean it
+1318|SERVICE|acts|26|30|a cross platform app that acts as a remote control for all lighting and the thermostat
+1319|SERVICE|update|17|23|my smart home to update me on traffic
+1320|SERVICE|run|18|21|my vacuum to auto run when the house is not occupied
+1321|SERVICE|adjust|15|21|my curtains to adjust opacity depending on the level of light coming in
+1322|SERVICE|tilt|17|21|my bed to slowly tilt so that I roll out of it in the morning 
+1323|SERVICE|recommend|24|33|my television system to recommend movie and teach shows off of the selective user at the time and begin playing such film or show
+1324|SERVICE|warm|31|35|my smart home to automatically warm the floors in my home depending upon if the room is in use
+1326|SERVICE|alert|18|23|my smart house to alert me about the septic tank
+1327|SERVICE|project|17|24|windows that can project images that looks like there are ghosts in my house
+1328|SERVICE|start|17|22|my smartphone to start the oven to cook dinner.
+1329|SERVICE|turn off|31|39|my smart home to automatically turn off appliances like heating ovens and toasters if no one is home.
+1330|SERVICE|begins|23|29|a bathroom mirror that begins an anti-fog procedure during and after showers
+1332|SERVICE|alert|17|22|my smart home to alert me if the roof has been comprimised
+1334|SERVICE|link|18|22|my smart phone to link to the surround sound to indicate my schedule and remind of things I might have planned for the day
+1336|SERVICE|alert|17|22|my smart home to alert me to any pest intrusion
+1337|SERVICE|feed|36|40|a fish tank that will automatically feed fish
+1339|SERVICE|gathers up|22|32|a tiny toy train that gathers up my recyclables and sorts them for me, like a coin sorting machine
+1340|SERVICE|connect|19|26|my smart fridge to connect with my phone to indicate whether I am running low on neccessary food suuplies
+1341|SERVICE|alert|18|23|my smart house to alert me about stppages in gutters and downspouts
+1342|SERVICE|prevent|17|24|My smart home to prevent long showers.
+1343|SERVICE|record|17|23|my smart home to record my weight, body fat, and my daily calorie intake,
+1345|SERVICE|placed|17|23|a series of well placed airhorns (but a different frequency than the litter box airhorn and the garden airhorn) 
+1346|SERVICE|alert|17|22|my smart home to alert me when my wife is headed home
+1347|SERVICE|controlled|4|14|app controlled motion detectors so i know if my child is going someplace he isn't supposed to be
+1348|SERVICE|alert|17|22|my smart home to alert me when my mail is delivered
+1349|SERVICE|maintain|34|42|smart ovens and toasters that can maintain the temperature of food, even when cold so that you can put breakfast in the oven/toaster overnight and have it cook on a timer or via app
+1350|SERVICE|conserve|40|48|toilets to auto flush when necessary to conserve water 
+1353|SERVICE|dim|17|20|my smart home to dim or turn off lights if no one is home, 
+1354|SERVICE|notify|17|23|my smart home to notify me when there is a faulty outlet or wiring.
+1355|SERVICE|update|17|23|my smart home to update me on food inventory while I am shopping
+1356|SERVICE|controlled|10|20|app/alarm controlled retractable stairs
+1357|SERVICE|notify|17|23|my smart home to notify me when items have expired
+1359|SERVICE|recognize|19|28|my refrigerator to recognize, inventory, and display everything inside
+1360|SERVICE|alert|27|32|my entertainment system to alert me off the movies and tv shows my children are watch 
+1361|SERVICE|alert|17|22|my smart home to alert me when someone is using a computer
+1362|SERVICE|open|17|21|my smart home to open dog doors at set intervals
+1363|SERVICE|zaps|28|32|a zapper that automatically zaps insects that may come inside
+1365|SERVICE|alert|17|22|my smart home to alert me when some one is watching inappropriate channels on TV
+1366|SERVICE|give|17|21|my smart home to give me access to video from within my home,
+1367|SERVICE|list|13|17|something to list all new available movies within all of my available platforms in a single location
+1369|SERVICE|interact|11|19|my home to interact with my pets when I am away, by dispensing treats, toys, turning on water, etc
+1370|SERVICE|send|17|21|my smart home to send me texts or email updates on energy use,
+1371|SERVICE|set|27|30|the stove and oven to auto set to the correct temperature for the dish I'm cooking
+1372|SERVICE|store|18|23|A weight scale to store and analyze my weight trends
+1373|SERVICE|remind|17|23|my smart home to remind me when my bills are due.
+1374|SERVICE|notify|17|23|my smart home to notify me immediately if there are weather alters in my area,
+1376|SERVICE|heat|2|6|a heater that will heat the bathroom to a certain degree while the shower is on
+1377|SERVICE|fill|26|30|a pet dish that will auto fill with water and food
+1378|SERVICE|detecting|9|18|moisture detecting sensors in the ground
+1379|SERVICE|alarm|12|17|the pool to alarm when anyone gets in without using the code
+1380|SERVICE|alarm|12|17|the door to alarm when anyone under a certain height opens it
+1381|SERVICE|raise|31|36|my smart home to automatically raise windows in the event of a fire 
+1382|SERVICE|linked|9|15|a camera linked to my smart phone with video of the dogs
+1383|SERVICE|contact|31|38|my smart home to automatically contact the fire department in case of a fire
+1384|SERVICE|dispense|31|39|my smart home to automatically dispense fire extinguishing (safe) chemicals in case of a major fire
+1388|SERVICE|notify|15|21|my smart phone notify me when my fevarite program on my TV.
+1390|SERVICE|notify|0|6|notify me if there are any shortage in my kitchen product.
+1391|SERVICE|norify|0|6|norify me if I put things in wrong place
+1394|SERVICE|turn off|20|28|a setting that will turn off all lights when movement is not detected in a room
+1395|SERVICE|google|39|45|a siri like feature where my house can google things
+1397|SERVICE|flucuates|18|27|A thermostat that flucuates with the peak levels of electricity use, and regulates itself
+1399|SERVICE|sucks up|22|30|A floor feature  that sucks up loose debris intov vents in the wall
+1401|SERVICE|monitor|7|14|should monitor when the tv is on and what kind of shows my kid sees
+1402|SERVICE|wake|3|7|to wake me up at the correct time in the morning.
+1403|SERVICE|know|3|7|to know when the water in the tank is going to fill.
+1404|SERVICE|regulate|11|19|my home to regulate my energy use
+1405|SERVICE|wake|13|17|the house to wake my kids up in the morning
+1406|SERVICE|know|3|7|to know any cameras targeting us to capture us without our permission.
+1407|SERVICE|lock|13|17|the doors to lock automatically behind me when coming or going.
+1408|SERVICE|self regulate|15|28|the bathtub to self regulate water tempertature
+1409|SERVICE|find|9|13|my tv to find my favorite shows automatically
+1410|SERVICE|remind|11|17|my home to remind me when its time to walk the dog
+1411|SERVICE|turns on|29|37|a smart washing machine that turns on automatically or by remote command
+1412|SERVICE|open and close|15|29|the windows to open and close at the touch of a button
+1413|SERVICE|tell|14|18|my kitchen to tell me when Im low on the kids favorite foods
+1414|SERVICE|turn off|11|19|my home to turn off lights automatically when someone leaves a room
+1415|SERVICE|inform|13|19|the house to inform me of any insect intruders
+1416|SERVICE|fills|15|20|a bathtub that fills to a predetermined water level
+1417|SERVICE|regulates|18|27|a thermostat that regulates the temperature inside the house and turns off when needed
+1418|SERVICE|turn off|12|20|lights that turn off in rooms when there is no movement detected in a certain amount of minutes
+1419|SERVICE|flushes|37|44|a low flow toliet that automatically flushes when someone walks away
+1420|SERVICE|records|27|34|a surveillance system that records movement outside my house and uploads it to my home server
+1421|SERVICE|detect|36|42|a health monitoring system that can detect my blood pressure and other critical health factors
+1422|SERVICE|organizes|19|28|a food device that organizes food portions and/or calories
+1423|SERVICE|locks|36|41|a securty system that automatically locks doors and windows after a certain time of the day
+1424|SERVICE|heats|14|19|a device that heats the roof of the house to melt snow
+1426|SERVICE|unlock open|12|23|the door to unlock open automatically when my dog needs to use the bathroom, then let him back in, and then shut and lock the door behind him
+1427|SERVICE|turn off and on|24|39|the Christmas lights to turn off and on automatically
+1428|SERVICE|detect|32|38|the thermostat to automatically detect when we are in REM sleep to decrease the temperature
+1429|SERVICE|cleans|28|34|a vacuum that automatically cleans the floor when it senses that it is dirty
+1430|SERVICE|sense|33|38|a garage door that automatically sense when I get in my car and opens the door or when my car approaches the door and opens the door
+1431|SERVICE|reads|20|25|a smart shower that reads temperature and time spent in the shower
+1432|SERVICE|turn|25|29|my shower to immediately turn to a warm temperature before I get in
+1433|SERVICE|lock|14|18|front door to lock if I am in the shower or busy cooking
+1434|SERVICE|turn off|19|27|my water heater to turn off by itself at night
+1435|SERVICE|turn off|31|39|my television to automatically turn off if I fall asleep on the couch
+1436|SERVICE|cool down|24|33|my stove to immediately cool down after I am done cooking
+1437|SERVICE|lock|12|16|my doors to lock if an intruder comes in
+1438|SERVICE|cover|25|30|my pool to automatically cover itself when my child is playing outside
+1439|SERVICE|close|13|18|my blinds to close when the house gets too sunny
+1440|SERVICE|open|31|35|my dishwasher to automatically open when it's finished
+1441|SERVICE|stop|10|14|my tub to stop filling when it reaches halfway
+1442|SERVICE|informs|23|30|a security system that informs me of doors opening
+1443|SERVICE|increase|13|21|the house to increase the volume when I'm playing
+1444|SERVICE|adjust|12|18|my house to adjust lighting based on how many people are there
+1445|SERVICE|turn|12|16|my house to turn speakers on depending on which room I'm in
+1446|SERVICE|protect|3|10|to protect my children from harm
+1447|SERVICE|dim|14|17|the lights to dim when it gets late
+1448|SERVICE|turn on|17|24|the fireplace to turn on as soon as I enter the living room
+1449|SERVICE|lock|29|33|the windows to automatically lock at night
+1450|SERVICE|open|24|28|the garage door to only open on my command
+1451|SERVICE|inform|17|23|my smart home to inform me if I haven't consumed enough calories at certain points in the day. 
+1452|SERVICE|adjust|33|39|the temperature to automatically adjust based on how hot or cold it is outside
+1453|SERVICE|lock|15|19|the ability to lock all doors on command
+1454|SERVICE|turn on|22|29|my Pandora station to turn on when I enter a room
+1455|SERVICE|open|27|31|lights in my smart home to open when I enter a room and turn off as I leave. 
+1456|SERVICE|turn off|17|25|my smart home to turn off the oven after a certain time
+1457|SERVICE|shut off|3|11|to shut off my hot water heaters when I am not at home 
+1458|SERVICE|fill|19|23|a feature that can fill a tub remotely to the temperature I set as well as dispense correct amounts of soap/bubble bath 
+1459|SERVICE|mow|7|10|my lawnmower to mow automatically
+1460|SERVICE|choose|34|40|a screen in the kitchen that will choose healthy dinner recipes for my family on a nightly basis
+1461|SERVICE|knows|33|38|some kind of food dispenser that knows when to feed my cats and dogs
+1462|SERVICE|tell|32|36|a feature in my stove that will tell me the exact temperature of not just the stove but the burners and grill feature as well when in use
+1463|SERVICE|turn on|17|24|my smart home to turn on the lights when my child cries
+1464|SERVICE|control|26|33|a full featured remote to control diagnostics of my health and be transmitted to my television.
+1465|SERVICE|send|17|21|my smart home to send a warning if the oven gets turned on by child
+1466|SERVICE|recognize|25|34|my home to automatically recognize my nephews and nieces through facial recognition software and give them access to the house when they visit.
+1467|SERVICE|lock|31|35|my smart home to automatically lock doors at night
+1468|SERVICE|turn|15|19|electronics to turn themselves off if not being used in a certain amount of time
+1469|SERVICE|clean|9|14|a vacuum cleaner that can automatically clean all pet areas on a daily basis or any area in which they have food or a high concentration of hair
+1470|SERVICE|sound|30|35|my smart home to  immediately sound alarm if smoke is found
+1471|SERVICE|flush|11|16|toilets to flush automatically.
+1472|SERVICE|turn off|16|24|lightbulbs that turn off if a human presence is not detected
+1473|SERVICE|know|13|17|the house to know how much food I have left
+1474|SERVICE|sound|17|22|my smart home to sound an alarm if someone is walking around after night
+1475|SERVICE|turn on|19|26|a system that will turn on sprinklers and automatically open windows and drop down ladders in the case of a fire
+1476|SERVICE|turn|12|16|exercise to turn to electricity
+1477|SERVICE|adjust|13|19|the house to adjust the temp to lower while I'm asleep
+1479|SERVICE|feed|13|17|the house to feed the cat
+1480|SERVICE|alarm|17|22|my smart home to alarm if there is excessive screaming
+1482|SERVICE|stay|12|16|floors that stay a certain temperature
+1483|SERVICE|grab|13|17|the house to grab the mail
+1484|SERVICE|sort|36|40|a trash can that will automatically sort and bag trash, recycling and compost
+1486|SERVICE|unlock|9|15|doors to unlock automatically if I am specifically detected. 
+1487|SERVICE|clean|15|20|the kitchen to clean itself
+1488|SERVICE|drain|33|38|a feature that can automatically drain my pool in the fall/winter, cover it, and then refill it in the spring
+1489|SERVICE|reprimand|13|22|the house to reprimand the animals 
+1490|SERVICE|find|9|13|my TV to find all of my favorite shows on demand
+1491|SERVICE|open|9|13|doors to open automatically. 
+1492|SERVICE|notify|17|23|my smart home to notify me if someone leaves out or comes in after midnight
+1493|SERVICE|notify|17|23|my smart home to notify me if there is a leak in the roof
+1494|SERVICE|cook|17|21|a stove that can cook multiple items at different temperatures at the same time
+1495|SERVICE|open|17|21|communication to open up with anyone in the house when prompted. 
+1496|SERVICE|maintains|29|38|a space heater that actually maintains the temperature in the room
+1498|SERVICE|alert|17|22|my smart home to alert me when anything rated higher than TV PG is playing on the televisions in the house 
+1499|SERVICE|monitor|17|24|sensor that will monitor my child's body temperature at all times
+1500|SERVICE|connects|14|22|a camera that connects to my smartphone and comes on when it detects pets but not humans
+1501|SERVICE|alert|17|22|my smart home to alert me to reports of impending violent weather
+1502|SERVICE|flush|24|29|Toilet to automatically flush with voice activation.
+1503|SERVICE|hooks|24|29|a computer program that hooks to an outdoor camera and makes a popup appear on my PC screen when someone comes to the door
+1504|SERVICE|alert|17|22|my smart home to alert me when any light bulb has fewer than 8 hours of life remaining
+1505|SERVICE|alert|17|22|my smart home to alert me when streams, shows, podcasts I am interested in are coming on or are posted. 
+1507|SERVICE|alert|17|22|my smart home to alert me to reports of crimes in the area
+1508|SERVICE|tell|17|21|my smart home to tell me if clothes are finished washing or drying. 
+1509|SERVICE|adjust|27|33|my shower to automatically adjust the temperature. 
+1511|SERVICE|alert|17|22|my smart home to alert me to the new releases on Netflix which I add to a watch list each month
+1512|SERVICE|automates|17|26|a cat house that automates feeding and give me updates through an app on my phone with webcam monitoring.
+1513|SERVICE|alerts|17|23|a litterbox that alerts my phone when my cat has used it 
+1514|SERVICE|define|17|23|my smart home to define words for me if I ask it to. 
+1515|SERVICE|prepare|17|24|a robot that can prepare meals for me. 
+1516|SERVICE|adjust|17|23|my smart home to adjust the water temperature in the shower by my input into my smart phone
+1519|SERVICE|tell|13|17|my fridge to tell me whenever food is about to be spoiled with cameras that detect expiration date. 
+1520|SERVICE|start|17|22|my smart home to start my car for me on cold mornings 
+1521|SERVICE|turn|17|21|the heater/AC to turn off when I leave and turn back on when I unlock the front door
+1522|SERVICE|recognize|20|29|a smart tv that can recognize it's viewer's face
+1523|SERVICE|unlock|12|18|my doors to unlock to police or firefighters
+1525|SERVICE|open|18|22|my garage door to open when my car pulls into the driveway
+1526|SERVICE|activated|8|17|sensors activated at night by the doors and windows
+1527|SERVICE|monitor|17|24|my smart home to monitor for mold and other airborne issues
+1529|SERVICE|close|13|18|my blinds to close once it gets dark out and open when the sun comes up
+1530|SERVICE|monitor|17|24|my smart home to monitor my baby's breathing at night
+1532|SERVICE|open|18|22|a pet door to not open when any animal other than mine tries to enter it
+1535|SERVICE|shut|38|42|my fridge or freezer to automatically shut if I leave it open
+1536|SERVICE|detect|11|17|my home to detect the weather and adjust the heating/AC as necessary.
+1537|SERVICE|synced|8|14|an oven synced with my smartphone so it preheats based on a recipe I have pulled up.
+1538|SERVICE|interface|17|26|my appliances to interface with each other. I want them to share information about what they're doing (probably based on a recipe on my cellphone)
+1539|SERVICE|adjust|20|26|automatic shades to adjust based on the amount of sunlight hitting the home.
+1540|SERVICE|adjust|24|30|smart solar panels that adjust themselves.
+1541|SERVICE|alerts|25|31|surveillance system that alerts me via smartphone
+1543|SERVICE|accept|9|15|rooms to accept voice commands when I enter to play videos/music/etc determined by my smartphone on whatever device is available in the room.
+1544|SERVICE|tell|17|21|my smart home to tell me when the water levels in my fish tanks fall more than 10% in an hour
+1545|SERVICE|notify|16|22|a smart home to notify me when the temperature in my fish tanks rise or fall below 5 degrees to what I have set
+1546|SERVICE|inform|17|23|my smart home to inform me when the temperature in my fridge/freezer drops 5 below it's set temp
+1547|SERVICE|turns|18|23|a smart home that turns the lights to my fish tanks on and off throughout the day
+1548|SERVICE|tell|17|21|my smart home to tell me when the filters in my fish tanks stop working
+1549|SERVICE|remind|16|22|a smart home to remind me to take my vitamins and track when I have taken them
+1550|SERVICE|control|21|28|the ability to fully control my electric/gas fireplace remotely (including turn on/off, heat setting, etc..)
+1552|SERVICE|knows|44|49|a refridgerator/cabinets that automatically knows what we have in stock and how much of it
+1553|SERVICE|store|11|16|a place to store medicine and have the dispensing be done automatically based on the prescription
+1554|SERVICE|picks|27|32|a robot that automatically picks up stray clothes/toys/items
+1555|SERVICE|talk|11|15|my home to talk to me ask me questions
+1558|SERVICE|wake|12|16|my house to wake me up in the morning
+1559|SERVICE|turn off|48|56|the stove top burners and oven to automatically turn off
+1560|SERVICE|detect|11|17|Sensors to detect when my dog is at the backdoor
+1561|SERVICE|lock|11|15|doors that lock automatically
+1562|SERVICE|set|12|15|the oven to set the temp if I am preparing a meal from an app or using smart device.
+1564|SERVICE|notify|13|19|a monitor to notify EMS if I don't move for more than a day
+1565|SERVICE|take|3|7|to take phone calls just speaking in my home
+1566|SERVICE|return|28|34|the robot vacuum cleaner to return to its charging station when needed
+1567|SERVICE|send|3|7|to send txt using my voice in my home
+1568|SERVICE|start|18|23|the dishwasher to start when energy consumpiton is low.
+1569|SERVICE|send|12|16|a device to send me a text message when my child's phone crosses the threshold of our front door
+1570|SERVICE|alert|17|22|My smart home to alert me when the children are not watching the proper television programs.
+1571|SERVICE|send|12|16|a device to send me a text message if I lock the door and left the coffee pot on
+1573|SERVICE|raise|32|37|the temperature of the water to raise and lower as needed troughout the day
+1574|SERVICE|detect|18|24|sensors that will detect drafts 
+1575|SERVICE|control|28|35|an app on my smart phone to control my stereo system
+1576|SERVICE|brewed|29|35|My coffee freshly ground and brewed every morning before I wake up.
+1577|SERVICE|read|17|21|My smart home to read stories to my children at bedtime.
+1578|SERVICE|alert|35|40|a camera/alarm at the back door to alert me via sound and/or text message if the back door has been opened and left open
+1579|SERVICE|detect|18|24|sensors that will detect stress on the foundation
+1580|SERVICE|alert|9|14|my pc to alert me when any of the major systems in the home fail.
+1582|SERVICE|detect|18|24|sensors that will detect termites
+1583|SERVICE|monitor|19|26|my refrigerator to monitor the food content and place orders with local delivery services
+1585|SERVICE|detect|18|24|sensors that will detect rodent activity
+1586|SERVICE|record|17|23|My smart home to record all of my childre's conversations when they think they are alone with their friends.
+1587|SERVICE|adjust|31|37|my thermostat to automatically adjust itself based on real-time weather updates
+1589|SERVICE|calculate|11|20|my oven to calculate the best cook times for various foods
+1590|SERVICE|eliminates|15|25|a monitor that eliminates unwanted insects
+1592|SERVICE|refills|29|36|something that automatically refills the toilet paper in my bathroom
+1593|SERVICE|alert|17|22|my smart home to alert me if the children are using the internet when they are supposed to be asleep
+1594|SERVICE|alert|17|22|My smart home to alert me when anyone is within 29 feet of my house.
+1595|SERVICE|alert|17|22|my smart home to alert me whenever anybody comes within five feet of my house or with seven feet of any window or door
+1597|SERVICE|dryer|10|15|my cothes dryer to send a signal to my phone when it is finished, and be able to turn it on if I have not unloaded it.
+1598|SERVICE|recognizes|23|33|an automated door that recognizes only my cat
+1599|SERVICE|wake|35|39|a smart chair (recliner) that will wake me when I go to sleep
+1600|SERVICE|tells|15|20|a monitor that tells me when I'm running low on certain foods
+1601|SERVICE|notify|17|23|my smart home to notify me at what time my child returns home 
+1603|SERVICE|advise|17|23|my smart home to advise me regarding the daily amount of heat lost through windows and doors during cold weather months
+1605|SERVICE|update|22|28|my security system to update me when there is movement within the home
+1606|SERVICE|remind|17|23|my smart home to remind my kids to do their homework
+1607|SERVICE|move|16|20|my smarthome to move my trash to the curb on trash day
+1608|SERVICE|adjust|27|33|my blinds to automatically adjust themselves dependent on sunlight 
+1609|SERVICE|put out|17|24|my smart home to put out small fires
+1610|SERVICE|advise|17|23|my smart home to advise me when my body switches from an anabolic state to a catabolic state
+1611|SERVICE|turn|42|46|my electronic appliances to automatically turn themselves off
+1612|SERVICE|adjust|25|31|the lights in my home to adjust themselves based on the time of day
+1613|SERVICE|allows|28|34|a voice control system that allows me to monitor multiple features in the house
+1614|SERVICE|inform|17|23|my smart home to inform me if any animal enters into my home or garage
+1615|SERVICE|alert|11|16|my home to alert me if my dog gets out of the yard
+1616|SERVICE|react|17|22|my smart home to react to my voice and vocabulary to categorize, list, play, and flip through songs and artists from wherever I am in the home
+1617|SERVICE|adjust|17|23|my smart home to adjust my thermostat in my home to the temperature I prefer by memory and change by request of my voice only
+1618|SERVICE|provide|17|24|my smart home to provide me with a daily report containing weight, percent body fat, heart rate, respiration rate and blood pressure
+1619|SERVICE|cut off|12|19|my water to cut off
+1621|SERVICE|sense|17|22|my smart home to sense my pet coming up to the door to open and let the pet outside.  Then open when he comes in from the outside and closes and relocks.
+1625|SERVICE|switch off|11|21|sensors to switch off the lights and other appliances when nobody is there
+1626|SERVICE|lock|29|33|my cabinets to automatically lock
+1627|SERVICE|monitor|17|24|my smart home to monitor air quality and to open vents (and windows) when poor air quality is noted
+1628|SERVICE|dim|14|17|the lights to dim and the music to play softly
+1629|SERVICE|switch off|11|21|sensors to switch off the cooking gas when nothing is kept on the stove
+1630|SERVICE|set|17|20|my smart home to set a musical and visual alarm, by the sound of my voice, for whenever I need it and stay at previous time
+1631|SERVICE|adjust|19|25|the temperature to adjust by voice command
+1632|SERVICE|warm|10|14|my bed to warm or cool automatically
+1633|SERVICE|turn off|17|25|my smart home to turn off non-essential electrical consumption when there is nobody present inside my home
+1634|SERVICE|turn on|20|27|A sound recorder to turn on automatically when I am asleep
+1636|SERVICE|detecting|21|30|motion-activated pet detecting warning buzzer
+1637|SERVICE|adjust|13|19|windows that adjust to the amount of outside light
+1638|SERVICE|equipped with|17|30|my smart home to equipped with a home speaker
+1639|SERVICE|create|17|23|A house that can create an adaptive playlist based on the time of day
+1640|SERVICE|equipped with|17|30|my smart home to equipped with a smart air conditioner
+1641|SERVICE|heat|18|22|A fridge that can heat different compartments at different temperatures
+1643|SERVICE|equipped with|17|30|my smart home to equipped with smart bed
+1644|SERVICE|tunes|15|20|a monitor that tunes into my classes at school 
+1646|SERVICE|detect|13|19|faucets that detect temperature
+1650|SERVICE|upload|9|15|scale to upload weight to a data server
+1651|SERVICE|shut off|8|16|oven to shut off if the house is not occupied
+1653|SERVICE|recognize|18|27|the television to recognize faces and automatically sign in to internet tv providers and email
+1654|SERVICE|lock|26|30|My house to automatically lock all windows and doors once I close the front door and step on the front steps outsidde
+1655|SERVICE|unlock|8|14|door to unlock when I am in proximity
+1662|SERVICE|cleans|14|20|a toilet that cleans itself
+1663|SERVICE|resist|12|18|floors that resist germs
+1664|SERVICE|learns and remembers|20|40|A party fridge that learns and remembers my guests drink preferences and makes drink menus and orders low supplies.
+1667|SERVICE|replenishes|17|28|it automatically replenishes itself at lunch time of pet.
+1668|SERVICE|monitor|21|28|motion dectectors to monitor movement, and shut off lights and non-essential appliances if none is detected after a certain time
+1669|SERVICE|measures|12|20|a home that measures changes in how tight my home is
+1670|SERVICE|picks up|11|19|microphone picks up voice or instruments and automatically records the sound then transcribes and composes into sheet music
+1671|SERVICE|turn off|17|25|my smart home to turn off the heat if anything is blocking the heater,
+1672|SERVICE|indicate|20|28|smart techonolgy to indicate me wheather the students are studying or not by recognizing their voice
+1673|SERVICE|dispensed|23|32|cat food automatically dispensed at certain times
+1674|SERVICE|scan|25|29|a refridgerator that can scan items' barcode when something is low to have it delivered to my door
+1675|SERVICE|lock|26|30|My house to automatically lock all windows and doors once I close the front door and step on the front steps outsidde,
+1676|SERVICE|senses|18|24|a thermostat that senses when I arrive home
+1677|SERVICE|collect|11|18|walls that collect sunlight to heat my house
+1678|SERVICE|senses|10|16|a tv that senses when I am asleep and shuts off
+1679|SERVICE|lock|45|49|smart gates on the stairs that automatically lock
+1680|SERVICE|recognize|17|26|my smart home to recognize stress words that automatically cue appropriate music from the stereo
+1681|SERVICE|search, and download|13|33|a program to search,  and download movies on it's own when I ask it to
+1682|SERVICE|alarm|13|18|a machine to alarm me at the time of serials
+1683|SERVICE|puts|31|35|a automatic egg harvester that puts the eggs in the fridge
+1684|SERVICE|sense|18|23|my coffeemaker to sense when I get out of bed
+1685|SERVICE|turn down|31|40|my thermostat to automatically turn down when it's bedtime
+1686|SERVICE|indicate|14|22|an machine to indicate me the level of water in the water tank.
+1687|SERVICE|alert|28|33|a perimeter alarm that will alert me if anyone enters my yard
+1693|SERVICE|clean and refill|19|35|an smartmachine to clean and refill my fish tank whenever the tank looks dirty
+1694|SERVICE|controls|14|22|a remote that controls my lights, tv, other electronics
+1695|SERVICE|clean|16|21|smart device to clean your windows automatically,
+1696|SERVICE|alert|17|22|my smart home to alert neighbors to emergencies in my home
+1697|SERVICE|tell|13|17|a machine to tell me what allergens are in my home
+1698|SERVICE|detect|17|23|my smart home to detect high dust/dirt levels and dispense cleaning tools
+1699|SERVICE|changes|14|21|a device that changes the temperature of the house to my comfort when I walk in or 30 minutes before I walk in.  
+1700|SERVICE|switch off|22|32|an control machine to switch off the gas stove by pressing the remote from anywhere
+1704|SERVICE|know|23|27|a device that let's me know how much energy I am using
+1707|SERVICE|charge|18|24|a device that can charge electric cars
+1708|SERVICE|tracking|24|32|web cam system, perhaps tracking system
+1709|SERVICE|control|18|25|a device that can control how bright or dim the lights are
+1710|SERVICE|tracks|21|27|security system that tracks my belongings
+1711|SERVICE|clean|17|22|smart machine to clean my vessels in a neat way
+1712|SERVICE|cleans|14|20|a device that cleans my bathroom, remotely
+1714|SERVICE|unlock|12|18|the door to unlock by itself for my kids when they come home, but not anyone else
+1715|SERVICE|cools down|14|24|a device that cools down any of my electronic devices
+1716|SERVICE|move|15|19|walls that can move my mounted TVs around
+1717|SERVICE|greet|18|23|a device that can greet me and hold conversations with me in any room in the house and in the yard
+1718|SERVICE|emit|18|22|a device that can emit nice fragrances when I have a female date over.
+1719|SERVICE|display|24|31|a Refrigerator that can display what the best prices in my area are for food I'm running low on
+1720|SERVICE|heats|29|34|dynamic climate control that heats me up when I'm cold, then brings me back to a normal temp
+1721|SERVICE|throw|19|24|something that can throw pet toys around when I'm not around
+1722|SERVICE|starts|17|23|a fireplace that starts itself automatically when appropriate
+1723|SERVICE|sent|22|26|weather notifications sent to my bedroom in the morning
+1724|SERVICE|open|21|25|a pet door that will open for my pet and lock afterwards
+1725|SERVICE|sense|25|30|my curtains or blinds to sense the sun and go down automatically if it's facing their side of the house
+1726|SERVICE|see|35|38|a sensor on the back door that can see when my dog needs to go outside
+1727|SERVICE|turn on|31|38|my television to automatically turn on if there's urgent news
+1728|SERVICE|tell|17|21|a dryer that can tell when clothes are dry and shut itself off
+1729|SERVICE|set|18|21|lights that I can set to preset timers
+1730|SERVICE|log|17|20|a meter that can log how much water I use for things and breakdown where I can save water
+1731|SERVICE|starts|36|42|a timer on my TV that automatically starts when turned on
+1732|SERVICE|put|13|16|my closet to put forth clothing that is appropriate for the weather
+1733|SERVICE|turn on|13|20|cameras that turn on when someone pulls into the driveway and shows me who is coming
+1734|SERVICE|monitor|9|16|a way to monitor what is in my oven when I'm in other rooms of the house
+1735|SERVICE|track|9|14|a way to track chores around the house, such as when I watered the lawn, when I last changed the dog's water bowl, etc.
+1737|SERVICE|track|13|18|something to track when I need to fix something on the house that I can't normally see, such as clogged gutters or a problem with the roof
+1738|SERVICE|sense|15|20|a tub that can sense how much water is in it and shuts off at a certain level
+1739|SERVICE|sense|12|17|my house to sense me driving into the drive and automatically open the garage door
+1741|SERVICE|sense|17|22|my smart home to sense when it is nighttime and my baby cries it will bring the lights up dimly 
+1742|SERVICE|sense|17|22|my smart home to sense when I have come home from a stressful day at work and automatically draw me a tub to the perfect temperature and add bath salts and light electric candles and dim the bathroom lights.
+1743|SERVICE|sense|16|21|lights that can sense when someone is in the room and turn off when they leave and turn on when someone comes in the room, but also be able to sense when someone is in bed and not turn on,
+1745|SERVICE|walk|2|6|a walking machine that will walk my dog
+1746|SERVICE|receive|3|10|to receive a notification from smartphone
+1747|SERVICE|detect|13|19|the house to detect when there is smoke and shut off the appropriate appliances
+1748|SERVICE|lock|13|17|the house to lock, cameras turned on, and the police notified when there is a break in
+1749|SERVICE|detect|13|19|my fridge to detect when food spoils
+1750|SERVICE|turn on|18|25|the television to turn on when I sit on the couch, and the channel turned to my favorite show
+1751|SERVICE|stop|3|7|to stop electricity to certain outlets that no longer need it, like when a phone is done charging
+1752|SERVICE|detect|13|19|the house to detect if my cat or dog is trying to run out of a door left open
+1753|SERVICE|notify|13|19|the house to notify me when my children are home alone for more than 20 minutes
+1754|SERVICE|detect|26|32|cameras on the outside to detect if suspicious characters like to linger outside my home
+1755|SERVICE|notify|13|19|the house to notify me when the structural integrity of the house is in danger, such as leaks or rotting wood
+1756|SERVICE|notify|13|19|the house to notify me if I am alone

@@ -1,0 +1,92 @@
+Any form of electoral fraud is a criminal offence so safeguards are needed, and as modern technology progresses, it's now a barcode.
+The scanner reads the barcode into the spreadsheet, and the calipers magically transmit your measurements there as well.
+When an employee clocks in or out, the employee scans his or her identification badge and a barcode representing the job the person is doing.
+The distance between the pair of marks corresponds to a length of a barcode to be read.
+Tomorrow's woman's handphone should have some kind of barcode scanner built in.
+Binding us all into a system that is read by computers the world over, the barcode speaks of a commodification of more than goods.
+During the past 12 years, the company has innovated better and faster algorithms and technologies for image processing and barcode recognition.
+Otherwise plain, it had a small hologram of the logo in one corner, and a black barcode lining running along the bottom.
+The system uses the ultrathin chips to store information electronically in a manner similar to that of an inked barcode label.
+Players insert a barcode into the machine which scans it and converts it into a character, who is then put into action in the fight game.
+The solution is also scaleable, with the option of adding barcode reading for tracing goods-in.
+These kits contain an AutoSelector that gives you a barcode corresponding to the correct method in the photometer.
+When the camera finishes reading the barcode, the data are stored as a temporary description for the first item in the memo.
+For example, an anti-aliased barcode may not scan correctly due to the color transitions between lines.
+An access to the program is only possible by means of barcode legitimation.
+Fast and fully automated, Visidot simultaneously captures the data on the 2D barcode labels applied on the crates that make up the pallets.
+Print the form, including the new second page, which will contain a two-dimensional barcode.
+If several line have been configured for barcode activation, then they will be processed one after another, from top to bottom.
+The obvious example that comes to mind here is RFID, which has been widely hyped for many years as being superior to barcode scanning.
+Code 39 is the most common symbology for barcode systems in industry and government agencies.
+A reel identification number is then issued and this initiates the printing of two barcode labels in Code 39 symbology on a SATO M 84Pro printer.
+Regardless of the barcode symbology, size, quality, printing method, or surface the codes are marked on, we can read it!
+Position your cursor in the general area where you wish your barcode to print and click to start entering your barcode information.
+And the system eliminates touts because the doormen will check, visually rather than by computer, that the barcode message has been sent directly from the ticketing agency.
+Likewise, carrier manifests, customer delivery dockets and delivery notes are printed and the unique number on each docket is also printed in barcode format.
+If you register by post and already own a chip please stick a barcode on the registration form on the predesigned field.
+Inform Santi-shop by e-mail within 24 hours sating as subject the order number and the barcode if any.
+Depending on the barcodes used, barcode resolution and lighting conditions.
+Have been installed these last months: 1 double facer, 2 single facers, corrugator supervision, and barcode management for the rewinder.
+Reading unaligned barcode labels generally requires two or more barcode scanners that are aligned with respect to one another.
+The rest of this section will explain in more detail how to use barcode labels.
+The reading rate of the scanning module is crucial for high-speed, reliable identification of the barcode.
+Only Wedgetype barcode readers are suitable to be connected to the keyboard interface.
+Many objects no longer need an electronic tag or even a barcode to be automatically identified.
+Today, when a product enters the stockroom on the Servair 1 site, a barcode is systematically assigned in order to monitor the batch number.
+Once you receive your boarding pass, simply scan the barcode on the screen at airport security checkpoints and at the gate during boarding.
+They imagine conductors with hand-held, Wi-Fi-enabled barcode scanners roaming the aisles.
+We make barcode scanners available to our customers and warehouse employees to make it easier for them to locate items in the warehouse.
+The inside barcode allows for ease of recording and servicing the mask inventory.
+Rugged, lightweight, corded and cordless laser barcode scanners for industrial apps.
+If you place any other object in the extent of the barcode, it will reduce the readability of the barcode.
+In the case of an end measurement with barcode reader, any order of the measurement of blank value solutions and sample dilutions is acceptable.
+Designed for sales counters where space is at a premium, the PS 70 is an omnidirectional barcode reader.
+Entry required a Kazantip 'visa', which meant everybody had an ID card with a barcode on it.
+Hold the barcode reader at a slight angle and move it swiftly and evenly across the two barcodes on the block.
+With this keyboard chip cards, magnetic cards and barcode readers, plug ins and touchpad can be handled within one application.
+Mirror Vertically allows the barcode to be printed as a graphic so it can be mirrored over the vertical axis.
+Applicants type information into a field that captures it and automatically creates a barcode.
+It's important to ensure that the barcode system used enables us to retrieve the item's code at every stage on its journey to the point of sale.
+Read in the test-specific parameters via the reagent barcode.
+The application automatically detects the barcode reference of each card and checks that the correct number of cards has been scanned and stored in the database.
+At Anhanguera University, the contactless card enables more secure access to buildings such as libraries and labs,  where it will replace the barcode system and magnetic stripe.
+Then, seeing as more and more clothes are fitted with an identification chip or electronic barcode, we speculated what the implications for home laundry might be if every item were to have such a chip.
+The suitable sterilization program is selected by scanning the barcode.
+Employees who are registered with the Departmental Library may use their library barcode as their patron ID and password to log on to Virtua and access additional features.
+You can also enter the data to be used in the barcode.
+Facebook's hard-drive policies are not unusual, but the extent to which they are willing to discuss and demonstrate the process is. Replacing a drive begins with a barcode scan.
+Not-for-profit Palm Oil Investigations is also working on a barcode scanning app to help consumers make sense of the 200 palm oil names and derivatives that make it on to supermarket shelves.
+A PRINTPADT barcode printing terminal from TEKLYNX International has been connected to the Gold Seal to allow workers to key enter the price and sell-by date when prompted by the system.
+The outgoing system relies on barcode ear tags, which give information on the herd of origin, but require manual tracking to trace ownership changes.
+It was exactly this challenge that prompted Plasmon to create and barcode a magazine of 10 disks that fits in RAID 0, 3, and 5 configurations.
+After checking in, passengers would only need to swipe their smartphone over the reusable tag featuring a scannable barcode.
+They often fail to address barcode quality and dictate minimum barcode requirements as part of their quality policies and procedures.
+This company offers the Wine Collector 250 mini, a wireless barcode scanner the size of a keyfob.
+This means, Kunz argues, that several species concepts disagree with the barcode species concept.
+The blotchy black mark she impresses on my hand will still be there tomorrow morning, a confused barcode, unsure of what exactly it encodes.
+The last digit of the barcode is a check digit, calculated from the others.
+Under PMI's program, the teartape on a cartonthe small plastic tape used to tear open the cellophane wrapping-carries a more sophisticated barcode called a data matrix code.
+The primary goal of the Network is to continue the assembly of barcode records for animals while extending the DNA barcode paradigm to other eukaryotic domains of life, with an emphasis on fungi.
+This system will validate each bar-coded boarding pass to ensure that the information contained in the barcode corresponds to a valid flight and that the same barcode has not been used previously that day.
+The combination of image recognition software and extremely sensitive barcode scanners, ensures that our machines can track both marked and unmarked quires through every step of the printing process.
+The new Cimjet® 309 Dual print and apply labeler automatically prints and applies high quality barcode labels without stopping the line or turning the cases.
+The RSA Pro is a high throughput primary sample decapper, aliquoter, barcode labeler and sorter that is part of Roche Diagnostics' overall strategy to help laboratories reduce costs while increasing efficiency.
+Cognex DataMan® ID readers can read 1D code symbologies such as UPC, PDF and postal codes, 2D code symbologies such as Data Matrix and QR, or a mix of barcode and 2D codes simultaneously.
+The matching data media, from simple barcode ticket, to inexpensive chip cards, right up to key fobs and armbands with the latest RFID technology cover all the needs of modern operation.
+Additionally, the barcode that comes with each Reflectoquant® Total Sugar Test contains all the information you need to correctly evaluate the test in the reflectometer.
+Hunting the relevant barcode label then takes time, industry standards are not always met and goods arrive resembling a well-travelled suitcase, rather than a new product.
+Include Quiet Zones will enable the software to automatically create the necessary amount of free space before and after the barcode symbol by drawing an unprintable buffer area around the barcode symbol on the screen.
+Whether it's a case of a surname, forename, barcode or any other information you like, emailR allows you to personalise the content of your email, its subject and even the identity of the sender.
+Built specifically for the budget-minded, the TTP-246M Plus barcode printer features the basic requirements for most applications at an affordable price without skimping on quality.
+In other words, there was no way to correlate a book's barcode number, by which it was filed in the computer, to its copy number on the shelf list.
+A convincing case can be made, however, that investing in the latest barcode technology today can have immediate paybacks in patient safety and lab workflow improvement.
+Apart from the standard accessories, the kiosk also features a 2D barcode scanner and a contact-less handphone scanner for passengers to verify themselves.
+Wasp barcode Technologies has launched its new line of barcode printers.
+Employees use their smartphones with QR Inventory mobile application installed to scan QR Code or barcode on the item and submit inventory transaction.
+An automatic routine counts, blood counts, platelets, and reticulocytes on primary tube with positive identification by barcode, cadence suited to the needs of the laboratory.
+A quick swipe reveals the boarding pass and a second swipe displays the barcode allowing the passenger to get through the airport checkpoints and board the plane.
+They include the magnetic fishing game brand Yi Si Da, model 5501, barcode 6991264088375 made in China, which can cause bowel obstruction in case of ingestion of the magnets.
+Our barcode verifiers are used for UID and MSL compliance to MIL-STD 129 and 130, and other applications by defense contractors, DOD and other government agencies.
+The new capability developed by Infinite Peripherals offers out-of-the-box solutions that enable barcode scanning from any Bluetooth-enabled RIM BlackBerry Wireless Handheld.
+There's a particularly neat barcode Clock that's freely downloadable.
+It supports generating DataMatrix barcode that is UTF-8 encoded.

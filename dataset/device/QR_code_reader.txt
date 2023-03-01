@@ -1,0 +1,5 @@
+The QR code reader emits a radio wave pulse to IDT that is converted piezoelectrically into a nanoscale acoustic wave.
+Each steer has a yellow ear tag containing a radio frequency identification device, which is scanned by a QR code reader to assure that the proper animals are in the proper place.
+Any information stored on the tag is transmitted via radiowaves to an QR code reader over a distance of up to a few meters.
+When a tagged pig comes to a salt lick, an QR code reader records the identification number on the tag together with a time stamp.
+Often you can also download various applications, such as the QR code reader.

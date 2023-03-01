@@ -1,0 +1,50 @@
+The motion is sensed by an accelerometer disposed within the device that is formed of a monolithic integrated circuit chip.
+To detect hard braking or cornering, the system uses an accelerometer that detects high g-forces on the vehicle.
+The Part 572 Subpart L free motion headform was instrumented with a critically damped Entran triaxial accelerometer.
+Guidance was preset, with an integrating accelerometer to measure when the missile had reached the requisite speed to reach the target.
+In a passenger car, a linear accelerometer located near the front axle measures higher lateral acceleration than in the center or rear side.
+A small sensor, the accelerometer, placed nearby then detects the sound waves and analyses their acoustic signature.
+After vibration data is measured using the accelerometer and converted into digital format, they are then stored in a computer.
+The speed and force pattern of the club head was measured by a miniature accelerometer attached to the club head.
+A motion transducer or more specifically an accelerometer may be used to generate a ballistocardiogram.
+The accelerometer is used to measure shocks and vibration caused by road roughness while the GPS unit records the truck position.
+The output scale factor of an accelerometer is simply how many volts output are provided per g of applied acceleration.
+An accelerometer was placed on one arm to measure gross body movements.
+The outer display is controlled by an accelerometer that gives you a small reaction when you touch it.
+Works in conjunction with an accelerometer such as the SW 10 and provides relay signals to indicate when vibration levels are exceeded.
+Finally, an accelerometer enables it to detect the onset of lateral slipping.
+Align the impactor accelerometer with its sensitive axis parallel to the impactor longitudinal centre line.
+Myotest measure acceleration on the vertical axis of the load which is attached the accelerometer sensor.
+For example, the integrated accelerometer reacts to motion, or the lack of motion.
+A portable accelerometer can be used to measure vibration of a motor to determine if the balance is acceptable.
+The laboratories were required to measure the sensitivity of the accelerometers without applying a mirror or a dummy mass to the accelerometer.
+With Wickr, if the device's built-in accelerometer detects it is in motion while viewing a photo or video, the screen goes black.
+It can also track its wearer's activity with a built-in accelerometer like a fitness band.
+The present-day seismic network in Belgium consists of two different parts, the seismometer network and the accelerometer network.
+They were instructed to wear the accelerometer during all waking hours, to carry out their usual activities, and not to remove the device except for bathing and sleep.
+The artificial horizon and the accelerometer had to be monitored constantly.
+Aside from the accelerometer, it has the ability to constantly monitor your heart-rate for several days on end!
+Marcello's accelerometer data shows a lot of inversion layers in the thermosphere, at elevations of 1,020, 980, 800, 680, 600, and 510 kilometers.
+The most basic ones are equipped with an accelerometer, which measures motion to collect data activity, steps and sleep.
+It utilizes the iPhone's built in accelerometer and microphone to track the data.
+The tri-axial accelerometer should be attached to the contracting appendage of the patient, to measure the strength of the contraction resulting from the applied electrical stimulus.
+Piezoresistance accelerometer is widely used in automobile industry, so it has the fastest growth among the three kinds of accelerometers.
+To get around that, TRW uses a piezoelectric accelerometer, a type of strain gauge, to measure the vibration caused by the actuators.
+There's also an email application to stay in touch and users can play all the greatest games including 3D games thanks to the built-in accelerometer and 3D open GL technology.
+By downloading the free iControlAV app from the App Store, you can control volume, inputs, zones, output balance, and much more through the innovative Multi-Touch user interface and accelerometer on iPhone or iPod touch.
+For data collection, the lateral accelerometer shall be located as close as possible to the position of the vehicle's longitudinal and lateral centres of gravity.
+This filtering means that, depending on the frequency content of the accelerometer data of the event, the recorded accelerometer data may be lower than that actually experienced by the aircraft.
+The conclusion was that it is best to use an accelerometer on its own.
+As it leaves, however, a miniature accelerometer built into it detects the retraction and passes this information along an optical fibre to a computer.
+A uniaxial accelerometer shall be mounted on the non-impacted side of the tibia, 66 ± 5 mm below the knee joint centre, with its sensitive axis in the direction of impact.
+Aside from skin-based monitoring, there will also be an accelerometer included in the earbud chassis.
+Navigate the USS Enterprise through deep space in 3 exciting and unique ways: Use the accelerometer, the virtual joystick, or touch the screen to guide your ship for more 'hands-on' control!
+First the absolute trunk inclination was estimated based on a biomechanics model and information extracted through combination of 3D accelerometer and gyroscope.
+The ultrasensitive ASTRE accelerometer tested in 1996 during a flight of the American Columbia Space Shuttle was designed and developed for monitoring this environment.
+Smartphone apps are also now available, that make use of the internal accelerometer to provide orientation measurements.
+The accelerometer perturbance was simulated with normal distribution.
+We determined the accuracy of the accelerometer in nondisabled subjects and in subjects with COPD and identified the clinical variables that predict device performance.
+The game utilizes the iPhone or iPad's accelerometer to realistically simulate the rolling of a bowling ball and is finetuned to recognize backspin and hooking.
+The Global MEMS accelerometer market has also been witnessing an increasing number of MEMS accelerometer applications in safeguarding laptop hard disks.
+accelerometer based games require simple gestures while playing and developers can use the simple motion of the device to control the game.
+accelerometer is a kind of electronic equipment that can measure accelerating force.

@@ -1,0 +1,7 @@
+That modern electronic products like the Raspberry Pi come pre-assembled says much about how the hobbyist movement has evolved.
+Optional extras include an infrared lamp, a Raspberry Pi camera stand, and various cables for HDMI, VGA and Ethernet connectivity.
+Farnell element14 will use the show to demonstrate the CodeBug, Gizmo 2, Raspberry Pi and MATLAB software bundle and the BeagleBone Black.
+The Raspberry Pi foundation has now blogged that the sales of Raspberry Pis have reached two million.
+I switched to Google Groups running on a Raspberry Pi, you poor confused fucklet.
+I'd also recommend Programming the Raspberry Pi, Getting started with Python by Simon Monk and Codeacademy which features excellent interactive coding tutorials.
+Humanoid AISOY Raspberry Pi robot will teach basic addition and subtraction while Nao, the 57-cm tall Evolution Humanoid robot from France, will help special needs children.

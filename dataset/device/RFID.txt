@@ -1,0 +1,33 @@
+Bring me your embedded RFID chips, show me your QR codes, hit me with your location-based web apps.
+Instead of scanning every item individually, an RFID till would simply total up every item in your shopping trolley as it approached.
+When a trucker whose RFID card grants him port access approaches the gate, the gate goes up, and the tire shredders stay down.
+The RFID microreaders, RFID tags and EDTP readers are not available locally.
+Today, over a million pets and farm animals worldwide have RFID tags in or on them, so Rover or Daisy can easily be tracked if they wander off.
+The basic idea is that you carry a personalized device that jams the signals from all the RFID tags on your person until you authorize otherwise.
+These chips act as transponders, always listening for a radio signal sent by transceivers, or RFID readers.
+Clever people at the University of Rochester have flipped the typical use of RFID around and created a navigational aid for the visually impaired.
+Unlike their bar code counterparts, tags embedded with RFID chips can still operate if torn or otherwise damaged.
+The plugged-in device identifies itself as a Human Interface Device and inputs RFID tag data into any existing applications.
+Most RFID tags contain an integrated circuit for storing and processing information, modulating and demodulating a signal.
+It provides complete verification of the RFID data and overstrikes bad labels to alert users if the RFID data cannot be encoded.
+DoD Components will immediately resource and implement the use of high data capacity active RFID in the DoD operational environment.
+In the same year, the Telepass active transponder RFID system was introduced across Italy.
+The Amtech RFID technology used on the Dallas North Tollway was originally developed at Sandia Labs for use in tagging and tracking livestock.
+Virginia may become the first state to glue RFID tags into all its driver's licenses.
+The passport's critical information is stored on a tiny RFID computer chip, much like information stored on smartcards.
+Any RFID interrogator within 30 meters can read an RFID tag in active mode.
+When goods are received at the Future Store, employees transport the pallets from the truck through an RFID gate at the backstore entrance.
+This patent covers systems and methods for using RFID tags in biopharmaceutical environments where gamma radiation is used for sterilization.
+Utilizing equipment from numerous RFID suppliers in Europe and North America, Checkpoint served as a hardware integrator for the trials.
+The technical skills, industry experience, and clients of SJS will position us as a dominant player in the RFID implementation space today.
+Recently, BSF has started taking RFID to a new level internally and is in the process of automating its receiving and shipping processes.
+Stratum Global along with Intermec and other industry leaders have helped create an RFID program at Oakton Community College.
+Truth is, some universities are already using RFID technology, although use is limited.
+Paar's research interests cover fast software and hardware realizations of cryptography, RFID security, physical security, and cryptanalytical hardware.
+Since RFID tags will eventually be placed on or in corrugated packaging, there are major implications for corrugated container manufacturers and their customers.
+In 2003, Michelin began testing RFID transponders embedded into its tires.
+Patents that generally relate to the lamination process for RFID cards that use an embedded chip to enable secure financial payments and access to secure locations.
+Acsis is an EPCglobal member and early adopter of RFID technologies.
+The design not only allows easy on-site maintenance but also reserves space for further expandability on Wi-Fi, MSR, IC card reader, fingerprint, and RFID module.
+Our study used the information entropy to measure the uncertainty of the RFID data streams, and analyzed the features that could influence cleaning effect.
+Rfid uses teeny computer chips, smaller than half-a-grain of sand, to track items at a distance.

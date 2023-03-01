@@ -1,0 +1,10 @@
+In summary, the process data repository serves as the memory for the various services within a company and is accessible via the Internet.
+Data made visible through a data repository can dramatically increase the impact of that research.
+The market survey indicated a strong demand for a common data repository, but the authors sensed that this was only part of the story.
+They have also taken steps to standardise the data collected and create a data repository.
+The construction of the data repository started in 1999 with a movement to standardize procedures, operating modes and best practices that then continued in 2001 with the creation of process mapping.
+The unique data repository, available via the intranet, allows each colleague within the Group to easily find relevant information and to visualize process mapping and interactions between processes and users.
+This includes but is not limited to an inventory of voice services, data services, cabling and equipment from a variety of providers in a consolidated data repository.
+It will be necessary for the trauma data repository, once developed, to have the capacity to report on the potential volume of scene rescues in order to accurately determine the potential benefits of a rotary wing system.
+The basic science information will be promulgated through scientific reports and publications, the Atlas of Canada Web site, presentations at meetings, and online resources including the ESS Geoscience data repository.
+Gridded digital data for this survey are available for download at no cost through the Geoscience data repository for Earth Science Sector geophysical and geochemical data.

@@ -1,0 +1,8 @@
+The preliminary hardware suite consists of a microcontroller, a pump, a motor-control subsystem, and a limited user interface.
+The microcontroller remaps the upper range of data to the maximum digital values, thereby enhancing image brightness at the high end of the pixel value range.
+These dynamics require a high degree of flexibility from the chosen microcontroller architecture.
+The DM1800 Module is based on RFM's TR3000 Virtual Wire transceiver radio and a PIC 16F688 Flash microcontroller from Microchip Technology.
+There are several microcontroller architectures and there are dozens of manufacturers for these as well.
+With a small memory footprint and an affordable licensing model, the IAR PowerPac RTOS is particularly aimed at the low-cost ARM-powered microcontroller market.
+The DSPnano Operating System offers an ultra tiny embedded POSIX environment for 8 and 16 bit microcontroller based development that is also Linux compatible.
+The Unison Operating System offers an ultra tiny embedded POSIX environment for 32 bit microcontroller based development that is also Linux compatible.

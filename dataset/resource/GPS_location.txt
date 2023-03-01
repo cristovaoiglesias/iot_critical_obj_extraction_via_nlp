@@ -1,0 +1,2 @@
+It also sends an emergency text to the wearer's family with its GPS location. 
+A coverage mapping feature allows up to eight hours of BER and RSSI testing to be associated with a GPS location.
